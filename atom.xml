@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-05-21T14:18:49.000Z</updated>
+  <updated>2016-05-21T14:30:39.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://trailheaven.github.io/2016/05/21/20160521-1/"/>
     <id>http://trailheaven.github.io/2016/05/21/20160521-1/</id>
     <published>2016-05-21T00:30:23.000Z</published>
-    <updated>2016-05-21T14:18:49.000Z</updated>
+    <updated>2016-05-21T14:30:39.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br&gt;　&lt;br&gt;それからPL(プロジェクトリーダー)、PM(プロジェクトマーネージャー)と経て、立場が変われど自分の中のわだかまりは消えることがありませんでした。&lt;/p&gt;
@@ -31,7 +31,7 @@
 &lt;li&gt;PM時代&lt;br&gt;プロジェクトで利益を上げようとすると、要件定義に含まれない仕様でお金をもらいたくなる。「仕様追加=お金」のアタマになる。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;前回のブログでも書きましたが、要件定義とは「モノを作るにあたり、何を作れば良いのかを決めること」です。&lt;br&gt;　&lt;br&gt;しかしながら、いざ開発が始まると要件定義の裏返しでもある「最初に決めたモノ以外は作らない」がどうしても前に出てしまうのです。&lt;br&gt;　&lt;br&gt;開発ベンダーにとって、要件定義にないモノは作る対象と見ません。この考え方はもちろん私も理解できますが、それと同時に次の疑問が生まれます。&lt;/p&gt;
+&lt;p&gt;前回のブログでも書きましたが、要件定義とは「モノを作るにあたり、何を作れば良いのかを決めること」です。&lt;br&gt;　&lt;br&gt;しかしながら、いざ開発が始まると要件定義の裏返しでもある「最初に決めたモノ以外は作らない」がどうしても前に出てしまうのです。&lt;br&gt;　&lt;br&gt;開発ベンダーにとって、要件定義にないモノは作る対象と見ません。この考え方はもちろん私も理解できますが、それと同時に次の疑問が生まれました。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;「このような過程で生まれたシステムは、果たして本当に価値のあるシステムなのだろうか」&lt;/p&gt;
 &lt;/blockquote&gt;
