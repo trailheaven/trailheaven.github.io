@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-05-21T00:31:43.000Z</updated>
+  <updated>2016-05-21T14:18:49.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>要件定義に対するわだかまりとは</title>
-    <link href="http://trailheaven.github.io/2016/05/21/20160521%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%8F%E3%81%9F%E3%82%99%E3%81%8B%E3%81%BE%E3%82%8A%E3%81%A8%E3%81%AF/"/>
-    <id>http://trailheaven.github.io/2016/05/21/20160521要件定義に対するわだかまりとは/</id>
+    <title>要件定義に対するわだかまりとは</title>
+    <link href="http://trailheaven.github.io/2016/05/21/20160521-1/"/>
+    <id>http://trailheaven.github.io/2016/05/21/20160521-1/</id>
     <published>2016-05-21T00:30:23.000Z</published>
-    <updated>2016-05-21T00:31:43.000Z</updated>
+    <updated>2016-05-21T14:18:49.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br&gt;　&lt;br&gt;それからPL(プロジェクトリーダー)、PM(プロジェクトマーネージャー)と経て、立場が変われど自分の中のわだかまりは消えることがありませんでした。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -40,22 +40,24 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
-&lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br&gt;　&lt;br&gt;それからPL(プロジェクトリーダー)、PM(プロ
     
     </summary>
     
+    
+      <category term="要件定義" scheme="http://trailheaven.github.io/tags/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/"/>
     
   </entry>
   
   <entry>
     <title>「要件定義」について考えてみる</title>
-    <link href="http://trailheaven.github.io/2016/05/14/20160514_%E3%80%8C%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%81%A6%E3%81%BF%E3%82%8B/"/>
-    <id>http://trailheaven.github.io/2016/05/14/20160514_「要件定義」について考えてみる/</id>
+    <link href="http://trailheaven.github.io/2016/05/14/20160514-1/"/>
+    <id>http://trailheaven.github.io/2016/05/14/20160514-1/</id>
     <published>2016-05-14T13:37:27.000Z</published>
-    <updated>2016-05-21T00:02:46.000Z</updated>
+    <updated>2016-05-21T14:07:48.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/14/20160514_「要件定義」について考えてみる/requirements-definition-is.jpg&quot; alt=&quot;「要件定義」について考えてみる&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/14/20160514-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;さて、記念すべき１回目は &lt;strong&gt;要件定義&lt;/strong&gt; という言葉について触れてみます。&lt;br&gt;　&lt;br&gt;ソフトウェア開発においてよく使われる「要件定義」というこの言葉、ウィキペディアでは「要件」の説明の一環として記述されていました。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ソフトウェア開発やシステム開発においては、「要件定義」とは、そのソフトウェアやシステムに必要な機能や性能を明らかにしてゆく作業のこと。&lt;/p&gt;
@@ -67,8 +69,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2016/05/14/20160514_「要件定義」について考えてみる/requirements-definition-is.jpg&quot; alt=&quot;「要件定義」について考えてみる&quot;&gt;&lt;/p&gt;
-&lt;p&gt;さて、記念すべき１回目は &lt;strong&gt;要件定義&lt;/s
+      &lt;p&gt;&lt;img src=&quot;/2016/05/14/20160514-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;さて、記念すべき１回目は &lt;strong&gt;要件定義&lt;/strong&gt; という言葉について触れてみます。&lt;br&gt;　&lt;br&gt;ソフトウェア開発においてよ
     
     </summary>
     
@@ -79,12 +81,12 @@
   
   <entry>
     <title>はじめまして</title>
-    <link href="http://trailheaven.github.io/2016/05/07/20160507_%E3%81%AF%E3%81%97%E3%82%99%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/"/>
-    <id>http://trailheaven.github.io/2016/05/07/20160507_はじめまして/</id>
+    <link href="http://trailheaven.github.io/2016/05/07/20160507-1/"/>
+    <id>http://trailheaven.github.io/2016/05/07/20160507-1/</id>
     <published>2016-05-06T15:33:38.000Z</published>
-    <updated>2016-05-17T13:08:39.000Z</updated>
+    <updated>2016-05-21T14:08:09.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/07/20160507_はじめまして/hello.jpg&quot; alt=&quot;はじめまして&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/07/20160507-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;はじめまして。株式会社ライトイールドの中山です。&lt;/p&gt;
 &lt;p&gt;ライトイールドでは、私のこれまでの経験を活かし、要件を定義しないWEBアプリケーションの受託開発に取り組んでいます。&lt;/p&gt;
 &lt;p&gt;要件を定義しないとはどういうことか。なぜ要件を定義してはいけないのか。などなど&lt;/p&gt;
@@ -93,9 +95,9 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2016/05/07/20160507_はじめまして/hello.jpg&quot; alt=&quot;はじめまして&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/2016/05/07/20160507-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;はじめまして。株式会社ライトイールドの中山です。&lt;/p&gt;
-&lt;p&gt;ライトイールドでは、私のこれまでの経験を活かし、要件を定義しないWEB
+&lt;p&gt;ライトイールドでは、私のこれまでの経験を活かし、要件を定義しないWEBアプリケーシ
     
     </summary>
     
