@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-05-21T00:09:42.000Z</updated>
+  <updated>2016-05-21T00:15:31.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>要件定義に対するわだかまりとは</title>
-    <link href="http://trailheaven.github.io/2016/05/20/20160520_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%8F%E3%81%9F%E3%82%99%E3%81%8B%E3%81%BE%E3%82%8A%E3%81%A8%E3%81%AF/"/>
-    <id>http://trailheaven.github.io/2016/05/20/20160520_要件定義に対するわだかまりとは/</id>
-    <published>2016-05-20T14:14:39.000Z</published>
-    <updated>2016-05-21T00:09:42.000Z</updated>
+    <title>要件定義に対するわだかまりとは</title>
+    <link href="http://trailheaven.github.io/2016/05/21/20160521_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%8F%E3%81%9F%E3%82%99%E3%81%8B%E3%81%BE%E3%82%8A%E3%81%A8%E3%81%AF/"/>
+    <id>http://trailheaven.github.io/2016/05/21/20160521_要件定義に対するわだかまりとは/</id>
+    <published>2016-05-21T00:14:10.000Z</published>
+    <updated>2016-05-21T00:15:31.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/20/20160520_要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521_要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
 &lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br&gt;　&lt;br&gt;それからPL(プロジェクトリーダー)、PM(プロジェクトマーネージャー)と経て、立場が変われど自分の中のわだかまりは消えることがありませんでした。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -40,7 +40,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/2016/05/20/20160520_要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/2016/05/21/20160521_要件定義に対するわだかまりとは/ill-feeling.jpg&quot; alt=&quot;要件定義に対するわだかまりとは&quot;&gt;&lt;/p&gt;
 &lt;p&gt;私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。&lt;br
     
     </summary>
