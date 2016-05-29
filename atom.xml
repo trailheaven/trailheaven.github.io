@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-05-27T15:30:08.000Z</updated>
+  <updated>2016-05-29T12:37:22.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WBSはライトイールドにお任せ下さい</title>
+    <link href="http://trailheaven.github.io/2016/05/29/20160529-1/"/>
+    <id>http://trailheaven.github.io/2016/05/29/20160529-1/</id>
+    <published>2016-05-29T14:45:31.000Z</published>
+    <updated>2016-05-29T12:37:22.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/05/29/20160529-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;ライトイールドからのお知らせです。&lt;br&gt;　&lt;br&gt;この度、ライトイールドではお客様のアプリケーション開発における &lt;strong&gt;「WBS作成支援サービス」&lt;/strong&gt; を始めました。&lt;br&gt;　&lt;br&gt;WBS(Work Breakdown Structure)とは&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;プロジェクトマネジメントで計画を立てる際に用いられる手法の一つで、プロジェクト全体を細かい作業に分割した構成図。「作業分割構成」「作業分解図」などとも呼ばれる。&lt;/p&gt;
+&lt;p&gt;プロジェクトを理解し管理する上でプロジェクトの各工程を各担当者の作業レベルまで展開し木構造にまとめたものである。どのレベルまで展開するかはプロジェクトの全メンバーが作業内容を「具体的になにをする」と理解出来るレベルまでに分解するのが理想であるが、最低でも作業担当者とプロジェクト管理者の理解が得られるレベルまでは必要である。&lt;/p&gt;
+&lt;p&gt;WBSはガントチャートやPERT図に展開してプロジェクト管理に使われる。&lt;br&gt;(&lt;a href=&quot;https://ja.wikipedia.org/wiki/Work_Breakdown_Structure&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ウィキペディア&lt;/a&gt;より)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;これまでのプロジェクト管理で培った経験を活かし、少しでもみなさんのお役に立てればと考えています。&lt;br&gt;　&lt;br&gt;なお、本サービスに含まれる作業は主に以下を予定しています。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;これからプロジェクト管理を行うお客様を対象に、WBS（ガントチャート形式）の作成を行います。&lt;/li&gt;
+&lt;li&gt;プロジェクト運営中のお客様を対象に、WBSの維持管理作業を行います。&lt;/li&gt;
+&lt;li&gt;お客様がWBSを作成、維持管理される際のコンサルティングを行います。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;日々刻々と変化するWBSを可視化することは、未来予測を可能にします。未来予測が可能になれば、プロジェクト管理は決して難しいものではありません。&lt;br&gt;　&lt;br&gt;お問い合わせは&lt;a href=&quot;mailto:&amp;#115;&amp;#97;&amp;#108;&amp;#101;&amp;#115;&amp;#64;&amp;#108;&amp;#105;&amp;#103;&amp;#104;&amp;#116;&amp;#121;&amp;#105;&amp;#101;&amp;#108;&amp;#100;&amp;#46;&amp;#99;&amp;#111;&amp;#46;&amp;#106;&amp;#112;&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;#115;&amp;#97;&amp;#108;&amp;#101;&amp;#115;&amp;#64;&amp;#108;&amp;#105;&amp;#103;&amp;#104;&amp;#116;&amp;#121;&amp;#105;&amp;#101;&amp;#108;&amp;#100;&amp;#46;&amp;#99;&amp;#111;&amp;#46;&amp;#106;&amp;#112;&lt;/a&gt;まで。ご連絡お待ちしております。&lt;br&gt;　&lt;br&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2016/05/29/20160529-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;ライトイールドからのお知らせです。&lt;br&gt;　&lt;br&gt;この度、ライトイールドではお客様のアプリケーション開発における &lt;strong&gt;「WBS作成支
+    
+    </summary>
+    
+    
+      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
+    
+  </entry>
   
   <entry>
     <title>要件定義を行うメリット</title>
