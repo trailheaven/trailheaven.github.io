@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-06-04T13:46:12.000Z</updated>
+  <updated>2016-06-04T13:53:46.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="http://trailheaven.github.io/2016/06/04/20160604-1/"/>
     <id>http://trailheaven.github.io/2016/06/04/20160604-1/</id>
     <published>2016-06-04T14:32:50.000Z</published>
-    <updated>2016-06-04T13:46:12.000Z</updated>
+    <updated>2016-06-04T13:53:46.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/06/04/20160604-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;さて、今回はライトイールドの進め方について書きたいと思います。ライトイールドではこれまでにもお伝えしている通り、要件を定義しません。&lt;br&gt;　&lt;br&gt;もちろん、WEBアプリケーションの開発にあたり、ユーザーの「やりたいこと」や「アプリケーションの目的」といった内容はお伺いします。&lt;br&gt;　&lt;br&gt;しかし、そこで伺った内容を &lt;strong&gt;定義化しない&lt;/strong&gt; のがライトイールドの進め方です。&lt;br&gt;　&lt;br&gt;では具体的にどのように開発を進めるのか、以下図と合わせてご説明します。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2016/06/04/20160604-1/howtoproceed.jpg&quot; alt=&quot;howtoproceed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/06/04/20160604-1/photo2.jpg&quot; alt=&quot;photo2&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ol&gt;
 &lt;li&gt;まず始めは、冒頭でも述べたように「ユーザーのやりたいこと」や「アプリケーションの目的」をお伺いします。&lt;br&gt;&lt;br&gt;&lt;/li&gt;
