@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-06-11T01:22:34.000Z</updated>
+  <updated>2016-06-18T13:01:17.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>draw.io</title>
+    <link href="http://trailheaven.github.io/2016/06/18/20160618-1/"/>
+    <id>http://trailheaven.github.io/2016/06/18/20160618-1/</id>
+    <published>2016-06-18T04:13:11.000Z</published>
+    <updated>2016-06-18T13:01:17.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/06/18/20160618-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;今回は私のオススメするIT関連情報です。&lt;/p&gt;
+&lt;p&gt;皆さんは「draw.io」というサイトをご存知でしょうか。「draw.io」はドローファイル(&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ウィキペディア&lt;/a&gt;)をWEB上で作成できるサイトで、「MicrosoftのVisioと同じとことができる」と言えば分かる人も多いかと思います。&lt;/p&gt;
+&lt;p&gt;そんな「draw.io」について、先日使ってみて良い感じでしたので、幾つかポイントを挙げながらご紹介したいと思います。&lt;/p&gt;
+&lt;p&gt;公式サイトはこちら &amp;gt;&amp;gt; &lt;a href=&quot;https://www.draw.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;draw.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「draw.io」の使い方等についてはこちら &amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;/2016/06/18/20160618-1/photo2.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;br style=&quot;clear:left;&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://nelog.jp/draw-io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;無料で説明図を作るならドローツール「draw.io」に敵うものはないかも&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;１．テンプレートが豊富&quot;&gt;&lt;a href=&quot;#１．テンプレートが豊富&quot; class=&quot;headerlink&quot; title=&quot;１．テンプレートが豊富&quot;&gt;&lt;/a&gt;１．テンプレートが豊富&lt;/h3&gt;&lt;p&gt;ドローツールにとって必須条件とも言えるテンプレート。その種類がこの「draw.io」ではケタ外れに多いです。ここまで揃っていれば書けないものはないのでは？と思えるくらいの豊富さ。&lt;/p&gt;
+&lt;p&gt;ドローツールを知っている人も知らない人も、テンプレートだけ漁ってみるのも良いかと思います。眺めているだけで楽しくなるテンプレートばかりです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;２．デスクトップアプリケーションと同等の操作性&quot;&gt;&lt;a href=&quot;#２．デスクトップアプリケーションと同等の操作性&quot; class=&quot;headerlink&quot; title=&quot;２．デスクトップアプリケーションと同等の操作性&quot;&gt;&lt;/a&gt;２．デスクトップアプリケーションと同等の操作性&lt;/h3&gt;&lt;p&gt;ありがたいことにこの「draw.io」では、馴染みのあるショートカットキー（Ctrl+C,V,S,Z）が使えます。&lt;/p&gt;
+&lt;p&gt;ショートカットキーは身体が覚えているもので、出来ないと分かっていてもついやってしまうもの。そんなショートカットキーが使えるのですから、操作性はかなり良く感じます。&lt;/p&gt;
+&lt;p&gt;また、図形の位置合わせが自動補正されるところも、直感的に作業できて使いやすいところです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;３．保存が可能&quot;&gt;&lt;a href=&quot;#３．保存が可能&quot; class=&quot;headerlink&quot; title=&quot;３．保存が可能&quot;&gt;&lt;/a&gt;３．保存が可能&lt;/h3&gt;&lt;p&gt;ショートカットキーにCtrl+Sが含まれているように、「draw.io」はWEB上で作成したドローファイルを保存することが可能です。&lt;/p&gt;
+&lt;p&gt;保存の方法は作成したドローファイルのメタデータをxml形式でダウンロードさせるというもの。保存したファイルは「draw.io」のサイトで開くことで、元の作業状態が復元される仕組みです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;４．ログインが不要&quot;&gt;&lt;a href=&quot;#４．ログインが不要&quot; class=&quot;headerlink&quot; title=&quot;４．ログインが不要&quot;&gt;&lt;/a&gt;４．ログインが不要&lt;/h3&gt;&lt;p&gt;「draw.io」の凄いところはログインを設けていないこと。そのため、「draw.io」のサイトに行くといきなり作業スペースが現れます。&lt;/p&gt;
+&lt;p&gt;ログインを設けないということは、ユーザー登録によって集まる情報を放棄するということ。個人情報までは必要ないとしても、すべてを放棄するのですから同業者としては驚きです。&lt;/p&gt;
+&lt;p&gt;集める情報が無いとなると、このWEBサイトを運営する目的は一体何なのでしょうか。もしかすると、ドローファイル自体の収集が目的かもしれません。だとするとオプトアウト(&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%97%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ウィキペディア&lt;/a&gt;)が用意されていても良さそうですが…。&lt;/p&gt;
+&lt;p&gt;すみません、この辺りはあくまでも推測です。気になる人は機密性の高い情報を扱わないように注意して下さい。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;５．フリーサービス&quot;&gt;&lt;a href=&quot;#５．フリーサービス&quot; class=&quot;headerlink&quot; title=&quot;５．フリーサービス&quot;&gt;&lt;/a&gt;５．フリーサービス&lt;/h3&gt;&lt;p&gt;とどめはこれ。ここまで使えるドローツールがすべて無料で提供されています。&lt;/p&gt;
+&lt;p&gt;先ほどのユーザー情報の話に加え、料金を一切取らないのですから本当に不思議です。「draw.io」のビジネスモデルがどうなっているのか、是非とも知りたいところです。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;いかがでしたでしょうか、今回の「draw.io」サイト。今のWEBアプリケーションってここまで進化してるんだなぁ、としみじみ実感できるサイトでもありました。ユーザー登録も不要ですし、ドローツールを使ったことがない人も一見の価値ありだと思います。&lt;/p&gt;
+&lt;p&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2016/06/18/20160618-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;今回は私のオススメするIT関連情報です。&lt;/p&gt;
+&lt;p&gt;皆さんは「draw.io」というサイトをご存知でしょうか。「draw.io」はドローファイ
+    
+    </summary>
+    
+    
+      <category term="WEBサービス" scheme="http://trailheaven.github.io/tags/WEB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>ライトイールドを使うメリット／デメリット</title>
