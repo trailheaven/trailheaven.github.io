@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-10-09T02:40:50.000Z</updated>
+  <updated>2016-10-15T05:34:30.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>キュレーションまとめ（10/8〜10/14）</title>
+    <link href="http://trailheaven.github.io/2016/10/15/20161015-1/"/>
+    <id>http://trailheaven.github.io/2016/10/15/20161015-1/</id>
+    <published>2016-10-15T05:20:07.000Z</published>
+    <updated>2016-10-15T05:34:30.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/10/15/20161015-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;10/8〜10/14に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;在宅勤務の女性に朗報！-オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）&quot;&gt;&lt;a href=&quot;#在宅勤務の女性に朗報！-オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）&quot; class=&quot;headerlink&quot; title=&quot;在宅勤務の女性に朗報！ オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）&quot;&gt;&lt;/a&gt;在宅勤務の女性に朗報！ オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.gizmodo.jp/2016/10/telebeauty-skype.html?utm_source=atom&amp;amp;utm_medium=rss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;資生堂は日本マイクロソフトの協力のもと、Webカメラを使ったオンライン会議時に表示される顔に、自動でメークや顔色補正を行なうアプリを開発した。その名も「TeleBeauty」（テレビューティー）。これにより在宅勤務中に突然オンライン会議が入っても、メークする手間が省けるんだとか。こんなこと逆立ちしても思いつかない。さすがは女性ならではの目線。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）&quot;&gt;&lt;a href=&quot;#SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）&quot; class=&quot;headerlink&quot; title=&quot;SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）&quot;&gt;&lt;/a&gt;SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://weekly.ascii.jp/elem/000/000/386/386253/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AIのキャラクターと英会話ができるSpeakBuddy。面白そうなのでちょっと試してみます。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）&quot;&gt;&lt;a href=&quot;#Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）&quot; class=&quot;headerlink&quot; title=&quot;Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）&quot;&gt;&lt;/a&gt;Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japanese.engadget.com/2016/10/10/google-16-rgb-cmyk/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Googleにカラーピッカー機能が搭載された。カラーピッカーとは16進カラーコードと色の相関を確認するための機能。たとえば #66cdaa というワードでGoogle検索すれば、カラーマップとともにパステル系の緑色が画面に表示されるらしい。便利なんだろうけど、結局あること忘れてお気に入りのサイトで調べる気がする…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）&quot;&gt;&lt;a href=&quot;#アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）&quot; class=&quot;headerlink&quot; title=&quot;アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）&quot;&gt;&lt;/a&gt;アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101100657/?n_cid=nbpitp_fbbn_top&amp;amp;ST=spleaf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;電子マネーサービス「point+plus」の運営などを手掛けるアララが2016年10月11日、ブロックチェーン技術の電子マネーへの適用可能性を実証する実験の報告書を公開した。この実験は、ブロックチェーンソフト「mijin」を使って独自のトークン「アララコイン」を発行し、電子マネーに多い多対1の取引を中心に、耐障害試験や負荷試験を実施したもの。実験の結果、アララは「課題はいくつかあるものの、不整合性が発生することなく、1分間に3000以上の取引が可能であり、データの改ざんが困難かつデータ消失を防止する仕組みに実用性、容易性が高いことが証明された」との結論を得たという。読むと納得、勉強になります。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET-Watch）&quot;&gt;&lt;a href=&quot;#金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET-Watch）&quot; class=&quot;headerlink&quot; title=&quot;金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET Watch）&quot;&gt;&lt;/a&gt;金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET Watch）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://internet.watch.impress.co.jp/docs/column/chizu/1024296.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;石川県の株式会社エイブルコンピュータが金沢市の古地図と現在の地図を見比べられるiOSアプリ「古今金澤」をリリースした。古地図と現在の地図を上下の画面で同時に閲覧・比較可能。収録している古地図は、石川県立図書館が所蔵する「寛文7年金沢図」（1667年）で、これは現存する最古の大型絵図だとか。金沢限定だけど、こういうの好きな人って多いんじゃないかしら。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）&quot;&gt;&lt;a href=&quot;#新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）&quot; class=&quot;headerlink&quot; title=&quot;新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）&quot;&gt;&lt;/a&gt;新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20161014-most-driver-phone-navigation/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;多くの新車にはカーナビが搭載されているが、オーナーの多くはカーナビではなくスマートフォンを使ってナビを行うことが新しい調査で明らかになったとのこと。私もその内の一人。クルマに付けたのはナビではなくスマホホルダー。代わりのモニターはバックミラーに映すだけで十分。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2016/10/15/20161015-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;10/8〜10/14に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;在宅勤務の女性に朗報！
+    
+    </summary>
+    
+    
+      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>キュレーションまとめ（10/1〜10/7）</title>
@@ -1557,29 +1613,6 @@
       <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
     
       <category term="要件定義" scheme="http://trailheaven.github.io/tags/%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ホームページができました</title>
-    <link href="http://trailheaven.github.io/2016/06/05/20160605-1/"/>
-    <id>http://trailheaven.github.io/2016/06/05/20160605-1/</id>
-    <published>2016-06-05T14:54:22.000Z</published>
-    <updated>2016-06-05T15:10:55.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/06/05/20160605-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;ライトイールドのホームページができました。&lt;a href=&quot;https://lightyield.co.jp/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;こちら&lt;/a&gt;からお問い合わせもできますので是非ご活用下さい。&lt;br&gt;　&lt;br&gt;いやー、会社らしくなってきた。&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/06/05/20160605-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;ライトイールドのホームページができました。&lt;a href=&quot;https://lightyield.co.jp/&quot; target=&quot;_blank&quot; 
-    
-    </summary>
-    
-    
-      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
     
   </entry>
   
