@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-11-19T13:27:12.000Z</updated>
+  <updated>2016-11-23T09:05:01.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WBSの勘所（５選）</title>
+    <link href="http://trailheaven.github.io/2016/11/23/20161123-1/"/>
+    <id>http://trailheaven.github.io/2016/11/23/20161123-1/</id>
+    <published>2016-11-23T05:42:25.000Z</published>
+    <updated>2016-11-23T09:05:01.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;WBSの勘所として、私がWBSを作る際に意識している点をまとめてみました。&lt;/p&gt;
+&lt;h2 id=&quot;WBSの勘所&quot;&gt;&lt;a href=&quot;#WBSの勘所&quot; class=&quot;headerlink&quot; title=&quot;WBSの勘所&quot;&gt;&lt;/a&gt;WBSの勘所&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;プロジェクトのゴールを定義する&lt;/li&gt;
+&lt;li&gt;ゴールまでの作業を洗い出す&lt;/li&gt;
+&lt;li&gt;作業を単位当たり１人日程度にバラす&lt;/li&gt;
+&lt;li&gt;作業の依存関係を設定する&lt;/li&gt;
+&lt;li&gt;WBSを随時更新する&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;WBSとは&quot;&gt;&lt;a href=&quot;#WBSとは&quot; class=&quot;headerlink&quot; title=&quot;WBSとは&quot;&gt;&lt;/a&gt;WBSとは&lt;/h2&gt;&lt;p&gt;まずはWBSの定義から。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;WBSとは、プロジェクトマネジメントで計画を立てる際に用いられる手法の一つで、プロジェクト全体を細かい作業に分割した構成図。&lt;/p&gt;
+&lt;p&gt;WBSでは、まずプロジェクトの成果物をできるだけ細かい単位に分解していく。その際、全体を大きな単位に分割してから、それぞれの部分についてより細かい単位に分割していき、階層的に構造化していく。成果物の細分化が終わったら、それぞれの部分を構成するのに必要な作業（一つとは限らない）を考え、最下層に配置していく。個々の部分を構成する一連の作業のかたまりのことを「ワークパッケージ」と呼ぶ。WBSのそれぞれのワークパッケージに担当する人員を配置していけば、プロジェクトを遂行する組織図ができる。これをOBS（Organization Breakdown Structure）と呼ぶ。(&lt;a href=&quot;http://e-words.jp/w/WBS.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IT用語辞典 e-Words&lt;/a&gt;より)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1-プロジェクトのゴールを定義する&quot;&gt;&lt;a href=&quot;#1-プロジェクトのゴールを定義する&quot; class=&quot;headerlink&quot; title=&quot;1. プロジェクトのゴールを定義する&quot;&gt;&lt;/a&gt;1. プロジェクトのゴールを定義する&lt;/h2&gt;&lt;p&gt;　「プロジェクト全体を細かい作業に分割したものをWBSと呼ぶ」と定義されている通り、WBSはプロジェクトがあってこその構成図です。そのため、まずはプロジェクトのゴールを設定するところから始めます。&lt;/p&gt;
+&lt;p&gt;　と言っても難しいことはせず、ただ単純に関係者に対してプロジェクトの目的やゴールをどう考えているかを聞き、理想的なゴールを定義するイメージです。&lt;/p&gt;
+&lt;p&gt;　例えば「カレーライスを作る」と言うプロジェクトがあった場合、そのゴールは「カレーライスを作る」までなのか、「カレーライスをテーブルに並べる」までなのか、「後片付けをする」までなのかを決めると言った感じです。&lt;/p&gt;
+&lt;h2 id=&quot;2-ゴールまでの作業を洗い出す&quot;&gt;&lt;a href=&quot;#2-ゴールまでの作業を洗い出す&quot; class=&quot;headerlink&quot; title=&quot;2. ゴールまでの作業を洗い出す&quot;&gt;&lt;/a&gt;2. ゴールまでの作業を洗い出す&lt;/h2&gt;&lt;p&gt;　プロジェクトのゴールが決まれば、ゴールまでに必要な作業を洗い出します。ここでは作業の大小や前後関係を考えず、ブレーンストーミングさながら思いつくままにリストアップします。どんなに大雑把でも、無理難題な作業でもいいので、完了までの道を書きます。詳細が不明確な作業も現時点で要否を判断せず、リストに含めます。&lt;/p&gt;
+&lt;p&gt;　大事なことは &lt;strong&gt;「ゴールまでの道を想像しながら作業を書き出す」&lt;/strong&gt;ことです。当たり前ですが、ゴールまでの道が書けなければプロジェクトがゴールすることはありません。粒度は荒くてもいいので、このタイミングで必ずシミュレーションを行い、ゴールまでの道を書くようにします。&lt;/p&gt;
+&lt;p&gt;　もし「カレーライスを作る」プロジェクトで「ご飯を作る」作業が抜けてしまった場合、「カレーは飲み物か」問題が発生して大変です。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo2.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;「カレーライスを作る」プロジェクトのWBS&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;3-作業を単位当たり１人日程度にバラす&quot;&gt;&lt;a href=&quot;#3-作業を単位当たり１人日程度にバラす&quot; class=&quot;headerlink&quot; title=&quot;3. 作業を単位当たり１人日程度にバラす&quot;&gt;&lt;/a&gt;3. 作業を単位当たり１人日程度にバラす&lt;/h2&gt;&lt;p&gt;　ゴールまでの作業を洗い出した後はこれらリストを細かく分解します。目標は１作業当たり１人日程度の作業ボリュームです。１人日程度のボリュームであれば、その作業が妥当かどうかを判断しやすいからです。作業工数が大きければ大きくなるほど、その数字が妥当なのかどうか判断が難しくなります。&lt;/p&gt;
+&lt;p&gt;　もちろん「そうは言っても…」という作業は往往にしてあります。その場合は潔く諦め、無理せずそにのままにしておきます。１人日はあくまでも目標値です。&lt;/p&gt;
+&lt;p&gt;　「カレーライスを作る」プロジェクトは恐らく１人日以下のプロジェクトでしょう。このような場合は作業の単位を「日」から「時間」に変更します。&lt;/p&gt;
+&lt;h2 id=&quot;4-作業の依存関係を設定する&quot;&gt;&lt;a href=&quot;#4-作業の依存関係を設定する&quot; class=&quot;headerlink&quot; title=&quot;4. 作業の依存関係を設定する&quot;&gt;&lt;/a&gt;4. 作業の依存関係を設定する&lt;/h2&gt;&lt;p&gt;　作業が出揃った後は、各作業の依存関係を設定します。作業によっては他の作業が完了しないと着手できない場合もありますし、他の作業と同時に着手できる作業もあります。これら依存関係はプロジェクトの作業期間に影響するため、可能な限り洗い出すようにします。&lt;/p&gt;
+&lt;p&gt;　「カレーライスを作る」プロジェクトの「ご飯を作る」と「カレールーを作る」は同時に開始することができますが、「お皿に入れる」作業はこれら２つの作業が完了していないと着手できません。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo3.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;「カレーライスを作る」プロジェクトのWBS&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;5-WBSを随時更新する&quot;&gt;&lt;a href=&quot;#5-WBSを随時更新する&quot; class=&quot;headerlink&quot; title=&quot;5. WBSを随時更新する&quot;&gt;&lt;/a&gt;5. WBSを随時更新する&lt;/h2&gt;&lt;p&gt;　WBSは&lt;strong&gt;「生き物」&lt;/strong&gt;です。日々刻々と変化する状況の中、時間の経過とともに作業が変わるのは世の常です。今まであやふやだった作業も着手前になれば明確になります。私の場合、作業に変化が生じると即座にWBSへ反映させるようにしています。そのため、私が作成するWBSはプロジェクト開始前に作ったものは作業の粒度が荒く、時間の経過と共に粒度が細かくなり、プロジェクトが完了する頃には全てが実際に行った作業に置き変わる感じです。&lt;/p&gt;
+&lt;p&gt;　ただし、人月ベースの作業見積もりを行う場合は、プロジェクト開始前に作ったWBSが使われることが一般的です。それが原因で、プロジェクト開始前のWBSは往々にして一人歩きします。更にはWBSの変更が簡単に受け入れられないケースもありますので注意が必要です。WBSを随時変更すると「計画的に実行できていない」と見られるんですね。私には「プロジェクトが柔軟に対応できて健康的」と見えるのですが。&lt;/p&gt;
+&lt;p&gt;　とは言え、「カレーライスを作る」プロジェクトでWBSが頻繁に更新される場合、単位が時間ですので流石に「計画的に実行できていない」と言われても仕方がありませんね…。&lt;/p&gt;
+&lt;h2 id=&quot;終わりに&quot;&gt;&lt;a href=&quot;#終わりに&quot; class=&quot;headerlink&quot; title=&quot;終わりに&quot;&gt;&lt;/a&gt;終わりに&lt;/h2&gt;&lt;p&gt;いかがでしたか。以上に挙げた勘所が皆さんの参考になれば幸いです。&lt;/p&gt;
+&lt;p&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;WBSの勘所として、私がWBSを作る際に意識している点をまとめてみました。&lt;/p&gt;
+&lt;h2 id=&quot;WBSの勘所&quot;&gt;&lt;a href=&quot;#WBSの勘所&quot; cl
+    
+    </summary>
+    
+    
+      <category term="WBS" scheme="http://trailheaven.github.io/tags/WBS/"/>
+    
+  </entry>
   
   <entry>
     <title>キュレーションまとめ（11/12〜11/18）</title>
@@ -1371,90 +1425,6 @@
 &lt;p&gt;7/9〜7/15に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4 id=&quot;【動画】これが実写ってマジ
-    
-    </summary>
-    
-    
-      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>キュレーションまとめ（7/2〜7/8）</title>
-    <link href="http://trailheaven.github.io/2016/07/09/20160709-1/"/>
-    <id>http://trailheaven.github.io/2016/07/09/20160709-1/</id>
-    <published>2016-07-09T07:12:41.000Z</published>
-    <updated>2016-07-09T07:45:16.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/07/09/20160709-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;7/2〜7/8に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;お家の中にお医者さん。パーソナル家庭医療用ロボット「Pillo」（HASH-LYVE）&quot;&gt;&lt;a href=&quot;#お家の中にお医者さん。パーソナル家庭医療用ロボット「Pillo」（HASH-LYVE）&quot; class=&quot;headerlink&quot; title=&quot;お家の中にお医者さん。パーソナル家庭医療用ロボット「Pillo」（HASH LYVE）&quot;&gt;&lt;/a&gt;お家の中にお医者さん。パーソナル家庭医療用ロボット「Pillo」（HASH LYVE）&lt;/h4&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhashlyve%2Fvideos%2F592149617611763%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;昨日も似たようなサービスのことを居酒屋で話してた気が。こういった家庭医療では予防も含めたサービスになってもらえるとありがたい。総じて医療費が下がればみんなハッピー。ドクターだって本当に必要な人に注力できる。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;【全画面推奨動画】「史上最も満足できる動画」が何時間でも見ていられる中毒性！嫌なことも忘れてスッキリするはず（RocketNews24）&quot;&gt;&lt;a href=&quot;#【全画面推奨動画】「史上最も満足できる動画」が何時間でも見ていられる中毒性！嫌なことも忘れてスッキリするはず（RocketNews24）&quot; class=&quot;headerlink&quot; title=&quot;【全画面推奨動画】「史上最も満足できる動画」が何時間でも見ていられる中毒性！嫌なことも忘れてスッキリするはず（RocketNews24）&quot;&gt;&lt;/a&gt;【全画面推奨動画】「史上最も満足できる動画」が何時間でも見ていられる中毒性！嫌なことも忘れてスッキリするはず（RocketNews24）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://rocketnews24.com/2016/07/02/767998/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ボーッと見てしまいました^^;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;コインロッカーに付けられたあるアイデアが便利すぎると話題に→「めちゃくちゃ痒いところに手が届くサービス」「ナイスアイデア」（togetter）&quot;&gt;&lt;a href=&quot;#コインロッカーに付けられたあるアイデアが便利すぎると話題に→「めちゃくちゃ痒いところに手が届くサービス」「ナイスアイデア」（togetter）&quot; class=&quot;headerlink&quot; title=&quot;コインロッカーに付けられたあるアイデアが便利すぎると話題に→「めちゃくちゃ痒いところに手が届くサービス」「ナイスアイデア」（togetter）&quot;&gt;&lt;/a&gt;コインロッカーに付けられたあるアイデアが便利すぎると話題に→「めちゃくちゃ痒いところに手が届くサービス」「ナイスアイデア」（togetter）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://togetter.com/li/994269&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;なるほど。これは優しい&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;自分のボットを作る時代？-ハッシュタグの考案者Chris-Messina氏が自分用のチャットボットをローンチ（THE-BRIDGE）&quot;&gt;&lt;a href=&quot;#自分のボットを作る時代？-ハッシュタグの考案者Chris-Messina氏が自分用のチャットボットをローンチ（THE-BRIDGE）&quot; class=&quot;headerlink&quot; title=&quot;自分のボットを作る時代？ ハッシュタグの考案者Chris Messina氏が自分用のチャットボットをローンチ（THE BRIDGE）&quot;&gt;&lt;/a&gt;自分のボットを作る時代？ ハッシュタグの考案者Chris Messina氏が自分用のチャットボットをローンチ（THE BRIDGE）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://thebridge.jp/2016/07/chris-messina-the-inventor-of-the-hashtag-just-launched-his-own-chatbot?utm_content=buffer9597c&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;まさにコピーロボット。パーマンの世界がそこに。とりあえずは…やたらと届くダイレクトメールから興味を持てそうなものを見つけてもらおうかな&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;写真に顔が写らない…パパラッチの撮影を不可能にする、仰天スカーフ（Buzz-Feed）&quot;&gt;&lt;a href=&quot;#写真に顔が写らない…パパラッチの撮影を不可能にする、仰天スカーフ（Buzz-Feed）&quot; class=&quot;headerlink&quot; title=&quot;写真に顔が写らない…パパラッチの撮影を不可能にする、仰天スカーフ（Buzz Feed）&quot;&gt;&lt;/a&gt;写真に顔が写らない…パパラッチの撮影を不可能にする、仰天スカーフ（Buzz Feed）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.buzzfeed.com/sahilrizwan/invisible-scarf-jp?utm_content=buffer64a51&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&amp;amp;utm_term=.xgdAM6pXj#.hs7agkylN&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;すごい、そんな事ができるのか…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;100年以上経ってもなお輝き続ける「Centennial-Light-Bulb-100年電球-」（Giga-Zine）&quot;&gt;&lt;a href=&quot;#100年以上経ってもなお輝き続ける「Centennial-Light-Bulb-100年電球-」（Giga-Zine）&quot; class=&quot;headerlink&quot; title=&quot;100年以上経ってもなお輝き続ける「Centennial Light Bulb(100年電球)」（Giga Zine）&quot;&gt;&lt;/a&gt;100年以上経ってもなお輝き続ける「Centennial Light Bulb(100年電球)」（Giga Zine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160705-oldest-working-light-bulb/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;寿命が長いだけでエンターテイメントになるんだから面白い。ライブ映像を見せ続けるだけのサービスってのもありだな&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;東京・大阪間なら1時間未満でつなげる超高速移動体「Hyperloop」の建設費用の詳細が公開される（Giga-Zine）&quot;&gt;&lt;a href=&quot;#東京・大阪間なら1時間未満でつなげる超高速移動体「Hyperloop」の建設費用の詳細が公開される（Giga-Zine）&quot; class=&quot;headerlink&quot; title=&quot;東京・大阪間なら1時間未満でつなげる超高速移動体「Hyperloop」の建設費用の詳細が公開される（Giga Zine）&quot;&gt;&lt;/a&gt;東京・大阪間なら1時間未満でつなげる超高速移動体「Hyperloop」の建設費用の詳細が公開される（Giga Zine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160706-hyperloop-one-speedy-travel/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本当に実現しそう！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;【悲報】みずほのデスマ現場、ガチで監獄並だった。末端は7次受けで時給900円（IT速報）&quot;&gt;&lt;a href=&quot;#【悲報】みずほのデスマ現場、ガチで監獄並だった。末端は7次受けで時給900円（IT速報）&quot; class=&quot;headerlink&quot; title=&quot;【悲報】みずほのデスマ現場、ガチで監獄並だった。末端は7次受けで時給900円（IT速報）&quot;&gt;&lt;/a&gt;【悲報】みずほのデスマ現場、ガチで監獄並だった。末端は7次受けで時給900円（IT速報）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://blog.livedoor.jp/itsoku/archives/49015765.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;これ、本当にある話です。開発ベンダーはとにかく作りあげることを優先事項とします。ここで作られたものが価値のあるシステムなのか、もう一度考えてもらいたい。ライトイールドは違います。ただし、それにはお客様の協力も必要です。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;スマホがおもちゃのリモコンに-乾電池型Bluetoothデバイス「MaBeee」発売-ミニ四駆の加速・減速もOK（ITmediaニュース）&quot;&gt;&lt;a href=&quot;#スマホがおもちゃのリモコンに-乾電池型Bluetoothデバイス「MaBeee」発売-ミニ四駆の加速・減速もOK（ITmediaニュース）&quot; class=&quot;headerlink&quot; title=&quot;スマホがおもちゃのリモコンに　乾電池型Bluetoothデバイス「MaBeee」発売　ミニ四駆の加速・減速もOK（ITmediaニュース）&quot;&gt;&lt;/a&gt;スマホがおもちゃのリモコンに　乾電池型Bluetoothデバイス「MaBeee」発売　ミニ四駆の加速・減速もOK（ITmediaニュース）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1607/06/news135.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;なるほどね&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;ワイン好きの方必見！開栓後の風味を変えない容器（HASH-LYVE）&quot;&gt;&lt;a href=&quot;#ワイン好きの方必見！開栓後の風味を変えない容器（HASH-LYVE）&quot; class=&quot;headerlink&quot; title=&quot;ワイン好きの方必見！開栓後の風味を変えない容器（HASH LYVE）&quot;&gt;&lt;/a&gt;ワイン好きの方必見！開栓後の風味を変えない容器（HASH LYVE）&lt;/h4&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhashlyve%2Fvideos%2F594457730714285%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;いいね、ワインに限らず色々と使えそう&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;横移動、回転もできちゃう-（HASH-LYVE）&quot;&gt;&lt;a href=&quot;#横移動、回転もできちゃう-（HASH-LYVE）&quot; class=&quot;headerlink&quot; title=&quot;横移動、回転もできちゃう?!（HASH LYVE）&quot;&gt;&lt;/a&gt;横移動、回転もできちゃう?!（HASH LYVE）&lt;/h4&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhashlyve%2Fvideos%2F594575640702494%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;すごい、こんなことできるんだ。ただ縦列駐車に関しては自動運転でできるので必要ないかな。もっと他の用途を見つけたい。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/07/09/20160709-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;7/2〜7/8に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;お家の中にお医者さん。パーソ
     
     </summary>
     
