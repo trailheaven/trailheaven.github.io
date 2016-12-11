@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2016-12-10T04:54:53.000Z</updated>
+  <updated>2016-12-11T03:59:55.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ガントチャートの決め手は平準化</title>
+    <link href="http://trailheaven.github.io/2016/12/11/20161211-1/"/>
+    <id>http://trailheaven.github.io/2016/12/11/20161211-1/</id>
+    <published>2016-12-11T02:25:23.000Z</published>
+    <updated>2016-12-11T03:59:55.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/12/11/20161211-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　ガントチャートツールを選ぶ際、私は「平準化」が行えるかを基準に考えます。ということで、今回は平準化とは何なのか、また何がそんなに嬉しいのかについて書いてみたい思います。&lt;/p&gt;
+&lt;h2 id=&quot;ガントチャートの平準化&quot;&gt;&lt;a href=&quot;#ガントチャートの平準化&quot; class=&quot;headerlink&quot; title=&quot;ガントチャートの平準化&quot;&gt;&lt;/a&gt;ガントチャートの平準化&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;平準化とは&lt;/li&gt;
+&lt;li&gt;ガントチャートの平準化が行うこと&lt;/li&gt;
+&lt;li&gt;平準化はいつ、何のために使うのか&lt;/li&gt;
+&lt;li&gt;平準化を使うメリットとは&lt;/li&gt;
+&lt;li&gt;平準化が使えるガントチャートツール&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;1-平準化とは&quot;&gt;&lt;a href=&quot;#1-平準化とは&quot; class=&quot;headerlink&quot; title=&quot;1. 平準化とは&quot;&gt;&lt;/a&gt;1. 平準化とは&lt;/h2&gt;&lt;p&gt;まずは平準化の定義から。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;　需要や業務負荷などが特定の時期や資源に集中しているといった偏りを排し、均等に配分すること。&lt;/p&gt;
+&lt;p&gt;　製造業で生産品種ごとにロット生産を行った場合、生産中は生産設備や人員はフル操業となるが、その品種を生産していない期間も設備や在庫を持つことになる。トヨタ生産方式ではこれを“ムラ”と考え、生産の平準化を推奨・実施している。&lt;/p&gt;
+&lt;p&gt;　プロジェクトマネジメントなどでは、プロジェクトの計画段階で特定の人員にタスクが集中してしまうことがあるが、このままでは実施不可能である。そこでリソースヒストグラムを利用して、作業の平準化を行う。&lt;/p&gt;
+&lt;p&gt;　業務システムにおいては、アプリケーションごとにサーバを立てると「昼間はアクセスが集中するが、夜間は遊休化してしまう」ことが多い。そこで仮想化技術によって、業務アプリケーションサーバと夜間バッチサーバでサーバ資源を共有化し、サーバ負荷の平準化を行うといったソリューションが推奨されている。&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;http://www.itmedia.co.jp/im/articles/0808/13/news068.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ITmedia 情報マネジメント用語辞典&lt;/a&gt;より)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;　大きな括りの言葉ではありますが、これから説明する平準化とは、「プロジェクトメンバーの作業を平すこと」を指します。&lt;/p&gt;
+&lt;h2 id=&quot;2-ガントチャートの平準化が行うこと&quot;&gt;&lt;a href=&quot;#2-ガントチャートの平準化が行うこと&quot; class=&quot;headerlink&quot; title=&quot;2. ガントチャートの平準化が行うこと&quot;&gt;&lt;/a&gt;2. ガントチャートの平準化が行うこと&lt;/h2&gt;&lt;p&gt;　ガントチャートツールの平準化とは一体どんな機能なのか。まずは平準化を行う前後のガントチャートを見て下さい。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/12/11/20161211-1/photo2.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;平準化前のプロジェクト&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2016/12/11/20161211-1/photo3.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;平準化後のプロジェクト&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　平準化を行うことで、メンバーの作業が平されたのが分かります。これは予め設定された1日の作業時間を超えたためであり、結果、コンピューターはメンバーの負荷を減らしつつも、プロジェクトの期間が長くなるように変更しています。つまり、平準化とはメンバーの負荷を考えながら、プロジェクト期間をより現実的なものに変えてくれる機能なのです。&lt;/p&gt;
+&lt;h2 id=&quot;3-平準化はいつ、何のために使うのか&quot;&gt;&lt;a href=&quot;#3-平準化はいつ、何のために使うのか&quot; class=&quot;headerlink&quot; title=&quot;3. 平準化はいつ、何のために使うのか&quot;&gt;&lt;/a&gt;3. 平準化はいつ、何のために使うのか&lt;/h2&gt;&lt;p&gt;　平準化を使うタイミングは「いつでも」です。ガントチャートの作業を追加した、変更した、削除した等々、ガントチャートに対して変更を加えた時は常に平準化を行います。では何のために使うのか、それは&lt;strong&gt;「未来を予測するため」&lt;/strong&gt;です。&lt;/p&gt;
+&lt;p&gt;　私はガントチャートツールを「コンピューターに未来を予測してもらうツール」と捉えています。コンピューターに未来を予測してもらうことで、これからのスケジュールが客観的に見られるからです。自分で考えると、自分の守備範囲でしか計算が行われません。特に期待値などを含む個人的感情で物事の優先順位が決まりがちで、結果として実態とはズレた精度の低いスケジュールになってしまいます。&lt;/p&gt;
+&lt;p&gt;　では、平準化のないガントチャートツールで計画を立てるとどのような未来になるのでしょうか？答えは簡単です、自分が頭に描いた未来予測にしかなりません。自分の考え方が正しいことを前提にした、自分にとって気持ちの良い（キレイな）ガントチャートが生まれるだけです。言い換えるなら、自分にとって都合良く作られたスケジュールが生まれるだけです。&lt;/p&gt;
+&lt;h2 id=&quot;4-平準化を使うメリット&quot;&gt;&lt;a href=&quot;#4-平準化を使うメリット&quot; class=&quot;headerlink&quot; title=&quot;4. 平準化を使うメリット&quot;&gt;&lt;/a&gt;4. 平準化を使うメリット&lt;/h2&gt;&lt;p&gt;　先述の通り、平準化を使うメリットはコンピューターが計算することにあります。自分で考えるのではなく、コンピューターに考えてもらうことで、何度も繰り返し計算を行うことができます。時にはコンピューターが計算することで自分の予想と違う結果も生まれますが、これも設定されたパラメータが間違っていなければ生まれるべくして生まれた計画です。&lt;/p&gt;
+&lt;p&gt;　平準化を嫌う人の多くは、この予想と違う結果が生まれることを嫌います。つまり、「自分の思う通りにならないから」という理由ですが、それはどうでしょうか。私は自分が正しいと過信するのではなく、コンピューターの考えた結果を選択肢の一つとして検討すべきと考えます。&lt;/p&gt;
+&lt;p&gt;　実際、私がスケジュールを計画する際は、パラメータの設定に一番時間を使います。そして、後はコンピュータが計算した結果を採用するようにしています。ただし、結果を採用するまでの間、パラメータを細かく変更しつつ、どのような状態でプロジェクトを運営するのが一番効率の良い方法か、をとことんシミュレーションします。&lt;/p&gt;
+&lt;h2 id=&quot;5-平準化が使えるガントチャートツール&quot;&gt;&lt;a href=&quot;#5-平準化が使えるガントチャートツール&quot; class=&quot;headerlink&quot; title=&quot;5. 平準化が使えるガントチャートツール&quot;&gt;&lt;/a&gt;5. 平準化が使えるガントチャートツール&lt;/h2&gt;&lt;p&gt;　世の中にはガントチャートツールがたくさんありますが、平準化の行える機能は意外とありません。私が知る限り以下の２択しか無く、それもOSによってどちらかが決定します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.microsoft.com/ja-jp/project&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Microsoft Project&lt;/a&gt;&lt;br&gt;　言わずと知れたガントチャートの王道です。私自身このツールが大好きで、前職では10年近くお世話になりました。多彩なパラメータをもとにする平準化は複雑で、未来予測のシミュレーションを行うには打ってつけです。クラウド版、デスクトップ版とアプリケーションの形態も多岐に渡るのですが、残念ながら平準化はデスクトップ版にしか実装されていないようです。Macユーザーにとっては敷居が高いため、現在は利用していません。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.omnigroup.com/omniplan&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Omni Plan&lt;/a&gt;&lt;br&gt;　Macユーザー向けのガントチャートツールです。StandardはMacOS版とiOS版の２種類展開で、ProはMacOS版のみの展開です。平準化はStandardに含まれていますので、私は値段の安いこちらを使用しています。このアプリの特徴は、UIでしょうか。デザインが綺麗ですし、操作も直感的に行えるように工夫されています。一方、残念な点もあります。不具合に近い症状なのですが「保存していないのに上書き保存される」「元の状態に戻ろうと操作を取り消しても、変な状態に戻ってしまう」などなど。品質にいささかの疑問がありますので、使用する際には必ず作業前のバックアップを取るなどの注意が必要です。なおアプリには日本語版仕様がありますが、サポートは英語です。日本語で問い合わせると、翻訳ツールを通したと思われる難解な日本語で返事が返ってきます。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;終わりに&quot;&gt;&lt;a href=&quot;#終わりに&quot; class=&quot;headerlink&quot; title=&quot;終わりに&quot;&gt;&lt;/a&gt;終わりに&lt;/h2&gt;&lt;p&gt;　いかがでしたか。ガントチャートツールはスケジュールを管理するのではなく、未来を予測するツール。そう考えると、これまでとは少し違った目線で見ることができるのではないかと思います。私はWBSに変更があればすぐさまガントチャートツールで平準化を行い、こらからのスケジュールを変更します。当初計画からの変更を嫌う人がいますが、私は&lt;strong&gt;「過去の計画に捉われず、現在の状況を正確に把握し、未来を客観的に予測する」&lt;/strong&gt;を繰り返すことがプロジェクト管理のキモだと考えています。&lt;/p&gt;
+&lt;p&gt;　平準化を使ったことがない人、平準化が苦手な人にとって参考になれば幸いです。ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2016/12/11/20161211-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　ガントチャートツールを選ぶ際、私は「平準化」が行えるかを基準に考えます。ということで、今回は平準化とは何なのか、また何がそんなに嬉しいのかについ
+    
+    </summary>
+    
+    
+      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
+    
+      <category term="WBS" scheme="http://trailheaven.github.io/tags/WBS/"/>
+    
+  </entry>
   
   <entry>
     <title>キュレーションまとめ（12/3〜12/9）</title>
@@ -193,7 +253,7 @@
     <link href="http://trailheaven.github.io/2016/11/23/20161123-1/"/>
     <id>http://trailheaven.github.io/2016/11/23/20161123-1/</id>
     <published>2016-11-23T05:42:25.000Z</published>
-    <updated>2016-11-23T09:05:01.000Z</updated>
+    <updated>2016-12-11T03:59:50.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;WBSの勘所として、私がWBSを作る際に意識している点をまとめてみました。&lt;/p&gt;
@@ -237,6 +297,8 @@
     
     </summary>
     
+    
+      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
     
       <category term="WBS" scheme="http://trailheaven.github.io/tags/WBS/"/>
     
@@ -1264,124 +1326,6 @@
 &lt;p&gt;8/6〜8/12に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4 id=&quot;Facebookがオープン
-    
-    </summary>
-    
-    
-      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>キュレーションまとめ（7/30〜8/5）</title>
-    <link href="http://trailheaven.github.io/2016/08/06/20160806-1/"/>
-    <id>http://trailheaven.github.io/2016/08/06/20160806-1/</id>
-    <published>2016-08-06T03:03:12.000Z</published>
-    <updated>2016-08-06T12:53:44.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/08/06/20160806-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;7/30〜8/5に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;プロのカメラマンに近づける-スマホ1つで4種のレンズが楽しめるカメラキット「Revolver-Kit」（HASH-LYVE）&quot;&gt;&lt;a href=&quot;#プロのカメラマンに近づける-スマホ1つで4種のレンズが楽しめるカメラキット「Revolver-Kit」（HASH-LYVE）&quot; class=&quot;headerlink&quot; title=&quot;プロのカメラマンに近づける!? スマホ1つで4種のレンズが楽しめるカメラキット「Revolver Kit」（HASH LYVE）&quot;&gt;&lt;/a&gt;プロのカメラマンに近づける!? スマホ1つで4種のレンズが楽しめるカメラキット「Revolver Kit」（HASH LYVE）&lt;/h4&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhashlyve%2Fvideos%2F603665603126831%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;これいいなぁ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;お家に工場-簡単にものづくりができる「FormBox」（HASH-LYVE）&quot;&gt;&lt;a href=&quot;#お家に工場-簡単にものづくりができる「FormBox」（HASH-LYVE）&quot; class=&quot;headerlink&quot; title=&quot;お家に工場!? 簡単にものづくりができる「FormBox」（HASH LYVE）&quot;&gt;&lt;/a&gt;お家に工場!? 簡単にものづくりができる「FormBox」（HASH LYVE）&lt;/h4&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhashlyve%2Fvideos%2F604312073062184%2F&amp;show_text=0&amp;width=560&quot; width=&quot;560&quot; height=&quot;315&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;これいい！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;この手があったか…！どんな乗り物も自動運転にしてしまうソフトウェア「セレニアム」（GIMODO）&quot;&gt;&lt;a href=&quot;#この手があったか…！どんな乗り物も自動運転にしてしまうソフトウェア「セレニアム」（GIMODO）&quot; class=&quot;headerlink&quot; title=&quot;この手があったか…！どんな乗り物も自動運転にしてしまうソフトウェア「セレニアム」（GIMODO）&quot;&gt;&lt;/a&gt;この手があったか…！どんな乗り物も自動運転にしてしまうソフトウェア「セレニアム」（GIMODO）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.gizmodo.jp/2016/07/oxboticaselenium.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;いろんな角度からアイデアが出てくる&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;Uber、独自の地図作成に5億ドル投資か–グーグル依存からの脱却目指す（CNET）&quot;&gt;&lt;a href=&quot;#Uber、独自の地図作成に5億ドル投資か–グーグル依存からの脱却目指す（CNET）&quot; class=&quot;headerlink&quot; title=&quot;Uber、独自の地図作成に5億ドル投資か–グーグル依存からの脱却目指す（CNET）&quot;&gt;&lt;/a&gt;Uber、独自の地図作成に5億ドル投資か–グーグル依存からの脱却目指す（CNET）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japan.cnet.com/news/business/35086724/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;脱googleかぁ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;これは見たいぞ。パックマンで一度も死なずにパーフェクトスコアを取ると…（GIMODO）&quot;&gt;&lt;a href=&quot;#これは見たいぞ。パックマンで一度も死なずにパーフェクトスコアを取ると…（GIMODO）&quot; class=&quot;headerlink&quot; title=&quot;これは見たいぞ。パックマンで一度も死なずにパーフェクトスコアを取ると…（GIMODO）&quot;&gt;&lt;/a&gt;これは見たいぞ。パックマンで一度も死なずにパーフェクトスコアを取ると…（GIMODO）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.gizmodo.jp/2016/08/726r_2.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;何とまぁ…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;ポケモンGOが世界1億ダウンロードを達成、課金は1日10億円超-調査会社調べ-（Engadget）&quot;&gt;&lt;a href=&quot;#ポケモンGOが世界1億ダウンロードを達成、課金は1日10億円超-調査会社調べ-（Engadget）&quot; class=&quot;headerlink&quot; title=&quot;ポケモンGOが世界1億ダウンロードを達成、課金は1日10億円超 (調査会社調べ)（Engadget）&quot;&gt;&lt;/a&gt;ポケモンGOが世界1億ダウンロードを達成、課金は1日10億円超 (調査会社調べ)（Engadget）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japanese.engadget.com/2016/08/02/go-1-1-10/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;今までにない加速度。細かいことは抜きにして、このレベルのものが一度もダウンしないことに驚き&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;手のひらレーザープロジェクター-Smart-Beam-Laserは無線接続可、畳めるスクリーン（別売）あり：弓月と百名のガジェット推し問答（Engadget）&quot;&gt;&lt;a href=&quot;#手のひらレーザープロジェクター-Smart-Beam-Laserは無線接続可、畳めるスクリーン（別売）あり：弓月と百名のガジェット推し問答（Engadget）&quot; class=&quot;headerlink&quot; title=&quot;手のひらレーザープロジェクター Smart Beam Laserは無線接続可、畳めるスクリーン（別売）あり：弓月と百名のガジェット推し問答（Engadget）&quot;&gt;&lt;/a&gt;手のひらレーザープロジェクター Smart Beam Laserは無線接続可、畳めるスクリーン（別売）あり：弓月と百名のガジェット推し問答（Engadget）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japanese.engadget.com/2016/08/02/smart-beam-laser/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;これ良いらしいね&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;指先サイズで500円なのにWi-Fi内蔵・Linux搭載でIoTにも使えるコンピューター「Omega2」（Gigazine）&quot;&gt;&lt;a href=&quot;#指先サイズで500円なのにWi-Fi内蔵・Linux搭載でIoTにも使えるコンピューター「Omega2」（Gigazine）&quot; class=&quot;headerlink&quot; title=&quot;指先サイズで500円なのにWi-Fi内蔵・Linux搭載でIoTにも使えるコンピューター「Omega2」（Gigazine）&quot;&gt;&lt;/a&gt;指先サイズで500円なのにWi-Fi内蔵・Linux搭載でIoTにも使えるコンピューター「Omega2」（Gigazine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160802-omega2/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;小さいなぁ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;渋滞回避を狙った中国の「またがりバス」がまさかの実車化、今後は実験走行も開始（Gigazine）&quot;&gt;&lt;a href=&quot;#渋滞回避を狙った中国の「またがりバス」がまさかの実車化、今後は実験走行も開始（Gigazine）&quot; class=&quot;headerlink&quot; title=&quot;渋滞回避を狙った中国の「またがりバス」がまさかの実車化、今後は実験走行も開始（Gigazine）&quot;&gt;&lt;/a&gt;渋滞回避を狙った中国の「またがりバス」がまさかの実車化、今後は実験走行も開始（Gigazine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160803-china-elevated-bus/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本気だ…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;東京五輪、野球・ソフトなど５競技１８種目の追加決定（朝日新聞DIGITAL）&quot;&gt;&lt;a href=&quot;#東京五輪、野球・ソフトなど５競技１８種目の追加決定（朝日新聞DIGITAL）&quot; class=&quot;headerlink&quot; title=&quot;東京五輪、野球・ソフトなど５競技１８種目の追加決定（朝日新聞DIGITAL）&quot;&gt;&lt;/a&gt;東京五輪、野球・ソフトなど５競技１８種目の追加決定（朝日新聞DIGITAL）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.asahi.com/articles/SDI201608043708.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;おぉ、ついに決まりましたか&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;LINEで「はよねんかい！」-大阪市淀川区が発信中（朝日新聞DIGITAL）&quot;&gt;&lt;a href=&quot;#LINEで「はよねんかい！」-大阪市淀川区が発信中（朝日新聞DIGITAL）&quot; class=&quot;headerlink&quot; title=&quot;ＬＩＮＥで「はよねんかい！」　大阪市淀川区が発信中（朝日新聞DIGITAL）&quot;&gt;&lt;/a&gt;ＬＩＮＥで「はよねんかい！」　大阪市淀川区が発信中（朝日新聞DIGITAL）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.asahi.com/articles/ASJ83517VJ83PTIL00M.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;お金も掛からないし、面白い取り組み&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;バンドのメンバーは1200人！-スタジアムで一斉にミュージシャンがロックする姿がアツすぎる-（ROCKET-NEWS24）&quot;&gt;&lt;a href=&quot;#バンドのメンバーは1200人！-スタジアムで一斉にミュージシャンがロックする姿がアツすぎる-（ROCKET-NEWS24）&quot; class=&quot;headerlink&quot; title=&quot;バンドのメンバーは1200人！ スタジアムで一斉にミュージシャンがロックする姿がアツすぎる!!（ROCKET NEWS24）&quot;&gt;&lt;/a&gt;バンドのメンバーは1200人！ スタジアムで一斉にミュージシャンがロックする姿がアツすぎる!!（ROCKET NEWS24）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://rocketnews24.com/2016/08/04/782494/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;楽しそうやなぁ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;新卒一括採用の見直しを支持します（茂木-健一郎-オフィシャルブログ）&quot;&gt;&lt;a href=&quot;#新卒一括採用の見直しを支持します（茂木-健一郎-オフィシャルブログ）&quot; class=&quot;headerlink&quot; title=&quot;新卒一括採用の見直しを支持します（茂木 健一郎 オフィシャルブログ）&quot;&gt;&lt;/a&gt;新卒一括採用の見直しを支持します（茂木 健一郎 オフィシャルブログ）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://lineblog.me/mogikenichiro/archives/5281966.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;納得。考えてみれば在校中ではなく卒業してから仕事を探すのが普通の流れかもね&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;おもちゃを一変させるスゴイ乾電池・MaBeeeが店頭販売を開始！（ASCII）&quot;&gt;&lt;a href=&quot;#おもちゃを一変させるスゴイ乾電池・MaBeeeが店頭販売を開始！（ASCII）&quot; class=&quot;headerlink&quot; title=&quot;おもちゃを一変させるスゴイ乾電池・MaBeeeが店頭販売を開始！（ASCII）&quot;&gt;&lt;/a&gt;おもちゃを一変させるスゴイ乾電池・MaBeeeが店頭販売を開始！（ASCII）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://ascii.jp/elem/000/001/205/1205936/?utm_content=buffera9535&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;電源にも困らないし、うまいよなぁ…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;狂気じみた複雑さなのに事故率を30％も下げる交差点「マジック・ラウンドアバウト」とは？（GigaZine）&quot;&gt;&lt;a href=&quot;#狂気じみた複雑さなのに事故率を30％も下げる交差点「マジック・ラウンドアバウト」とは？（GigaZine）&quot; class=&quot;headerlink&quot; title=&quot;狂気じみた複雑さなのに事故率を30％も下げる交差点「マジック・ラウンドアバウト」とは？（GigaZine）&quot;&gt;&lt;/a&gt;狂気じみた複雑さなのに事故率を30％も下げる交差点「マジック・ラウンドアバウト」とは？（GigaZine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160805-7-circle-magic-roundabout/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;これは難しい！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;第28回-アムロにガンダムを持ち出された地球連邦みたいにならないための機密情報管理術（前編）-1-3-（ITmedia-エンタープライズ）&quot;&gt;&lt;a href=&quot;#第28回-アムロにガンダムを持ち出された地球連邦みたいにならないための機密情報管理術（前編）-1-3-（ITmedia-エンタープライズ）&quot; class=&quot;headerlink&quot; title=&quot;第28回　アムロにガンダムを持ち出された地球連邦みたいにならないための機密情報管理術（前編） (1/3)（ITmedia エンタープライズ）&quot;&gt;&lt;/a&gt;第28回　アムロにガンダムを持ち出された地球連邦みたいにならないための機密情報管理術（前編） (1/3)（ITmedia エンタープライズ）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.itmedia.co.jp/enterprise/articles/1608/04/news019.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;面白い^^;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;【密着取材】名人による「オオクワガタ捕獲作戦」がワイルドすぎる！-一晩でクワガタ500匹オーバーも（ROCKET-NEWS24）&quot;&gt;&lt;a href=&quot;#【密着取材】名人による「オオクワガタ捕獲作戦」がワイルドすぎる！-一晩でクワガタ500匹オーバーも（ROCKET-NEWS24）&quot; class=&quot;headerlink&quot; title=&quot;【密着取材】名人による「オオクワガタ捕獲作戦」がワイルドすぎる！ 一晩でクワガタ500匹オーバーも（ROCKET NEWS24）&quot;&gt;&lt;/a&gt;【密着取材】名人による「オオクワガタ捕獲作戦」がワイルドすぎる！ 一晩でクワガタ500匹オーバーも（ROCKET NEWS24）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://rocketnews24.com/2016/08/05/783962/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;お伴したい&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;Amazonがついに自社専用の貨物機を導入して運用を開始（GigaZine）&quot;&gt;&lt;a href=&quot;#Amazonがついに自社専用の貨物機を導入して運用を開始（GigaZine）&quot; class=&quot;headerlink&quot; title=&quot;Amazonがついに自社専用の貨物機を導入して運用を開始（GigaZine）&quot;&gt;&lt;/a&gt;Amazonがついに自社専用の貨物機を導入して運用を開始（GigaZine）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://gigazine.net/news/20160805-amazon-prime-air-plane/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;いやはや、凄いの一言&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/08/06/20160806-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;7/30〜8/5に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;プロのカメラマンに近づける
     
     </summary>
     
