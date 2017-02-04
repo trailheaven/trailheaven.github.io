@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2017-02-04T04:59:58.000Z</updated>
+  <updated>2017-02-04T14:27:17.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>計画日なんて気にしないぞ</title>
+    <link href="http://trailheaven.github.io/2017/02/04/20170204-2/"/>
+    <id>http://trailheaven.github.io/2017/02/04/20170204-2/</id>
+    <published>2017-02-04T06:45:08.000Z</published>
+    <updated>2017-02-04T14:27:17.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2017/02/04/20170204-2/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　先日、気になるWBSを見かけましたので投稿します。どんな感じかというと下図のような感じ。そう、開始日と完了日が入っていないんです。工数は入っているのに。なかなか斬新です。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/02/04/20170204-2/photo2.jpg&quot; width=&quot;500px&quot; height=&quot;400px&quot; alt=&quot;計画日のないWBS&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;スケジュールを確約したくない&quot;&gt;&lt;a href=&quot;#スケジュールを確約したくない&quot; class=&quot;headerlink&quot; title=&quot;スケジュールを確約したくない&quot;&gt;&lt;/a&gt;スケジュールを確約したくない&lt;/h2&gt;&lt;p&gt;　このWBSについて作成者に聞いたところ、この意図は「計画日が独り歩きすると困るから」だそうです。うーん、なるほど。言いたいことはよく分かります。「WBSの計画日は絶対」といった風潮がある以上、確約したくない気持ちはもっともです。&lt;/p&gt;
+&lt;p&gt;　とは言え、やっぱりアレですよね。私にはこの「プロジェクトがいつ終わるか分からない」という状況の方が困りますし、怖いと思います。&lt;/p&gt;
+&lt;h2 id=&quot;追い込まれるリーダーたち&quot;&gt;&lt;a href=&quot;#追い込まれるリーダーたち&quot; class=&quot;headerlink&quot; title=&quot;追い込まれるリーダーたち&quot;&gt;&lt;/a&gt;追い込まれるリーダーたち&lt;/h2&gt;&lt;p&gt;　現場のリーダーたちは本当に大変です。実作業を抱えつつも、好きでもないWBSを作らされることがしばしば。&lt;/p&gt;
+&lt;p&gt;　ましてや、今回のようなWBSでは「いつ頃終わりそう？」と聞かれても答えが返せない。答えられないリーダーは「要注意」のレッテルと共に些細なことで揚げ足が取られ初めます。当然、揚げ足ばかり取られるとリーダーはますます公開したくなくなります。そんな悪循環です。&lt;/p&gt;
+&lt;p&gt;　これぞ風通しの悪いプロジェクトの典型的なパターンと言えるでしょう。&lt;/p&gt;
+&lt;h2 id=&quot;私からの提案&quot;&gt;&lt;a href=&quot;#私からの提案&quot; class=&quot;headerlink&quot; title=&quot;私からの提案&quot;&gt;&lt;/a&gt;私からの提案&lt;/h2&gt;&lt;p&gt;　ということで、私からの提案です。所詮、予定は未定なんです。WBSの計画日なんてコロコロ変えてしまいましょう。そして周りの人たちはWBSの計画日を参考程度として扱いましょう。そうすればプロジェクトの状況をもっと客観的に把握することができます。&lt;/p&gt;
+&lt;p&gt;　プロジェクトは生き物です。日々刻々と状況は変化し、プロジェクトはその都度舵を切る判断を迫られます。そこでモノを言うのが、何と言っても精度高く未来予測ができるWBSなんです。つまり、日々置かれている状況を正確に理解し、それが正しくプロットされているWBSなんです。&lt;/p&gt;
+&lt;h2 id=&quot;だからこそ&quot;&gt;&lt;a href=&quot;#だからこそ&quot; class=&quot;headerlink&quot; title=&quot;だからこそ&quot;&gt;&lt;/a&gt;だからこそ&lt;/h2&gt;&lt;p&gt;　WBSの本質は「未来を予測する」ことにあります。そのためにもWBSは常日頃から最新の状況に更新しておくべきです。たとえそれが当初計画から変わろうとしてもです。だからこそ、プロジェクトにおける関係者の皆さんには、過去のWBSに縛られるのではなく、最新のWBSをもって現場のリーダーたちと未来を共有してもらえればと思います。未来さえ見えれば怖くありません。舵なんていくらでも切れるんですから。&lt;/p&gt;
+&lt;p&gt;ではまた▷L◁&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;▼ライトイールドではWBS作成支援サービスもやっています&quot;&gt;&lt;a href=&quot;#▼ライトイールドではWBS作成支援サービスもやっています&quot; class=&quot;headerlink&quot; title=&quot;▼ライトイールドではWBS作成支援サービスもやっています&quot;&gt;&lt;/a&gt;▼ライトイールドではWBS作成支援サービスもやっています&lt;/h4&gt;&lt;p&gt;興味がある人はこちらも合わせてご覧ください。　&amp;gt;&amp;gt;&lt;a href=&quot;https://trailheaven.github.io/2016/05/29/20160529-1/&quot;&gt;WBSはライトイールドにお任せ下さい&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/02/04/20170204-2/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　先日、気になるWBSを見かけましたので投稿します。どんな感じかというと下図のような感じ。そう、開始日と完了日が入っていないんです。工数は入ってい
+    
+    </summary>
+    
+    
+      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
+    
+      <category term="WBS" scheme="http://trailheaven.github.io/tags/WBS/"/>
+    
+  </entry>
   
   <entry>
     <title>Facebookまとめ（1/28〜2/3）</title>
@@ -1106,67 +1143,6 @@
 &lt;p&gt;10/8〜10/14に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4 id=&quot;在宅勤務の女性に朗報！
-    
-    </summary>
-    
-    
-      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>キュレーションまとめ（10/1〜10/7）</title>
-    <link href="http://trailheaven.github.io/2016/10/09/20161009-1/"/>
-    <id>http://trailheaven.github.io/2016/10/09/20161009-1/</id>
-    <published>2016-10-09T02:23:42.000Z</published>
-    <updated>2016-10-09T02:40:50.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/10/09/20161009-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;10/1〜10/7に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;買い物の“お釣り”で投資できるFinTechアプリ「Moneybox」–ターゲットはミレニアル世代（CNET-JAPAN）&quot;&gt;&lt;a href=&quot;#買い物の“お釣り”で投資できるFinTechアプリ「Moneybox」–ターゲットはミレニアル世代（CNET-JAPAN）&quot; class=&quot;headerlink&quot; title=&quot;買い物の“お釣り”で投資できるFinTechアプリ「Moneybox」–ターゲットはミレニアル世代（CNET JAPAN）&quot;&gt;&lt;/a&gt;買い物の“お釣り”で投資できるFinTechアプリ「Moneybox」–ターゲットはミレニアル世代（CNET JAPAN）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japan.cnet.com/sp/europe_trend/35089470/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;普段の買い物の「お釣り」を投資にできるロンドン発FinTechサービスのMoneybox。英国在住の18歳以上の人を対象に、普段のカードでの買い物の金額の端数を切り上げ、その端数分を投資に回せるというもの。アナログで言うところのお釣り貯金箱みたいなものか。あれも旅行目的とか、人それぞれだけど今思えば立派な投資だもんね。いろんなサービスがあるな&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;縦横無尽な動きが体感できる巨大シミュレーターマシン（GIZMODO）&quot;&gt;&lt;a href=&quot;#縦横無尽な動きが体感できる巨大シミュレーターマシン（GIZMODO）&quot; class=&quot;headerlink&quot; title=&quot;縦横無尽な動きが体感できる巨大シミュレーターマシン（GIZMODO）&quot;&gt;&lt;/a&gt;縦横無尽な動きが体感できる巨大シミュレーターマシン（GIZMODO）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.gizmodo.jp/2016/10/cablerobot-simulator.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;FraunhoferIPAが公開しているシミュレーター。大きな部屋の中にカーボンファイバー製のケージが存在し、繋がった8本のスチールケーブルが各方向に引っ張られることで縦横無尽にケージが部屋の中を動き回る仕組み。高速でケージを動かすことで最大1.5Gまで体感できるようになっており、これがワイヤレスのVRシステムと連携するんだからすごい。USJあたりでアトラクション化されないかしら。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;トヨタのロボットが3万9800円で登場-「KIROBO-mini」個人向けに発売（ITmediaビジネス）&quot;&gt;&lt;a href=&quot;#トヨタのロボットが3万9800円で登場-「KIROBO-mini」個人向けに発売（ITmediaビジネス）&quot; class=&quot;headerlink&quot; title=&quot;トヨタのロボットが3万9800円で登場　「KIROBO mini」個人向けに発売（ITmediaビジネス）&quot;&gt;&lt;/a&gt;トヨタのロボットが3万9800円で登場　「KIROBO mini」個人向けに発売（ITmediaビジネス）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.itmedia.co.jp/business/articles/1610/03/news084.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;トヨタ自動車は10月3日、コミュニケーションロボット「KIROBO mini」を3万9800円（税別）で今冬以降に発売すると発表した。個人的にはメーカーが作るアプリにはあまり期待していないので何とも言えないが、とりあえずシートベルトを締めてカップホルダーに収まってる姿が可愛いらしい。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;パナソニック、1-000回曲げられる「フレキシブルリチウムイオン電池」（PC-Watch）&quot;&gt;&lt;a href=&quot;#パナソニック、1-000回曲げられる「フレキシブルリチウムイオン電池」（PC-Watch）&quot; class=&quot;headerlink&quot; title=&quot;パナソニック、1,000回曲げられる「フレキシブルリチウムイオン電池」（PC Watch）&quot;&gt;&lt;/a&gt;パナソニック、1,000回曲げられる「フレキシブルリチウムイオン電池」（PC Watch）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://pc.watch.impress.co.jp/docs/news/1022975.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;パナソニック株式会社 オートモーティブ&amp;amp;インダストリアルシステムズの繰り返し曲げたり、ねじったりできる電池。これってもしかして凄いんじゃないの？期待しちゃう&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;セカイカメラ、Telepathyの井口氏が帰ってきた―5秒の声サービス「Baby」を米国でローンチ（Tech-Crunch）&quot;&gt;&lt;a href=&quot;#セカイカメラ、Telepathyの井口氏が帰ってきた―5秒の声サービス「Baby」を米国でローンチ（Tech-Crunch）&quot; class=&quot;headerlink&quot; title=&quot;セカイカメラ、Telepathyの井口氏が帰ってきた―5秒の声サービス「Baby」を米国でローンチ（Tech Crunch）&quot;&gt;&lt;/a&gt;セカイカメラ、Telepathyの井口氏が帰ってきた―5秒の声サービス「Baby」を米国でローンチ（Tech Crunch）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://jp.techcrunch.com/2016/10/04/baby/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;スマホに向かって5秒間の声を吹き込み、見ず知らずの人と繋がり、会話が楽しめるBaby。ユーザーは次々と流れてくる風船から聞こえてくる「声」を聞き、ちょっとコミュニケーションしてみたいなと思ったプライベートメッセージが始まる。正直、そこまでしてコミュニケーションがしたいとは思わないかな…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;東芝、野菜をそだてる「植物工場」閉鎖―事業化から2年で（INTERNET-COM）&quot;&gt;&lt;a href=&quot;#東芝、野菜をそだてる「植物工場」閉鎖―事業化から2年で（INTERNET-COM）&quot; class=&quot;headerlink&quot; title=&quot;東芝、野菜をそだてる「植物工場」閉鎖―事業化から2年で（INTERNET COM）&quot;&gt;&lt;/a&gt;東芝、野菜をそだてる「植物工場」閉鎖―事業化から2年で（INTERNET COM）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://internetcom.jp/201634/toshiba-plant-end&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;東芝は2014年に事業を始めた「植物工場」を閉鎖し、レタスなどの野菜の生産、販売も終了する。先日には植物工場を運営・販売するみらいが6月末、東京地裁に民事再生法の適用を申請したとの報道もあり、植物工場の経営がいかに難しいかが浮き彫りになっている。絵に描いた餅をお金に変えられる経営者ってホントに凄いと思う&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;ヘビーモバイラーがキングジムの新型ポメラ「DM200」を一刀両断-（PC-Watch）&quot;&gt;&lt;a href=&quot;#ヘビーモバイラーがキングジムの新型ポメラ「DM200」を一刀両断-（PC-Watch）&quot; class=&quot;headerlink&quot; title=&quot;ヘビーモバイラーがキングジムの新型ポメラ「DM200」を一刀両断!（PC Watch）&quot;&gt;&lt;/a&gt;ヘビーモバイラーがキングジムの新型ポメラ「DM200」を一刀両断!（PC Watch）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://pc.watch.impress.co.jp/docs/column/hothot/1023623.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;キングジムから、Wi-Fi機能を搭載したテキスト入力特化型端末、ポメラの新型「DM200」が発表された。発売は21日で、税別価格は49,800円となっている。毎度のことながら思うが、この端末の必要性が全くもって分からない。入力したデータはiPhoneやMacに連携されるらしいのだが、連携が必要ならそもそも使わないし、なぜわざわざ持ち歩かないといけないのか。音声入力に特化されているのなら少しは考えるが…いや、やっぱりないか&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/10/09/20161009-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;10/1〜10/7に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;買い物の“お釣り”で投資
     
     </summary>
     
