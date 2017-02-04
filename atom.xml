@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2017-01-29T03:44:34.000Z</updated>
+  <updated>2017-02-04T04:59:58.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Facebookまとめ（1/28〜2/3）</title>
+    <link href="http://trailheaven.github.io/2017/02/04/20170204-1/"/>
+    <id>http://trailheaven.github.io/2017/02/04/20170204-1/</id>
+    <published>2017-02-04T04:46:16.000Z</published>
+    <updated>2017-02-04T04:59:58.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2017/02/04/20170204-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;1/28〜2/3に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;米スターバックス、モバイル注文システムが好調すぎて売り上げに悪影響（スラド）&quot;&gt;&lt;a href=&quot;#米スターバックス、モバイル注文システムが好調すぎて売り上げに悪影響（スラド）&quot; class=&quot;headerlink&quot; title=&quot;米スターバックス、モバイル注文システムが好調すぎて売り上げに悪影響（スラド）&quot;&gt;&lt;/a&gt;米スターバックス、モバイル注文システムが好調すぎて売り上げに悪影響（スラド）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://mobile.srad.jp/story/17/01/28/1824253/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;店に行く前に注文しておけば行列せずに受け取ることができるスターバックスのモバイルアプリ。その便利さが故に同社の売り上げを押し下げる結果になったとのこと。会社の休憩時間前のようにモバイル注文が集中する時間帯には、バリスタが注文をさばききれなくなることもあり、そのため、モバイル注文を利用していない客が長い列にうんざりして別の店に行ってしまうこともあったらしい。&lt;br&gt;こればっかりは店舗の処理能力を意識して受注をコントロールするしかないんだろな。システム屋からすると、これほどまでに客を集めるシステムを作ったことを褒めて欲しいが。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;シャープ、「Google翻訳」に対抗か―英語をなぞって訳す「ナゾル」を謎アピール（INTERNET-COM）&quot;&gt;&lt;a href=&quot;#シャープ、「Google翻訳」に対抗か―英語をなぞって訳す「ナゾル」を謎アピール（INTERNET-COM）&quot; class=&quot;headerlink&quot; title=&quot;シャープ、「Google翻訳」に対抗か―英語をなぞって訳す「ナゾル」を謎アピール（INTERNET COM）&quot;&gt;&lt;/a&gt;シャープ、「Google翻訳」に対抗か―英語をなぞって訳す「ナゾル」を謎アピール（INTERNET COM）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://internetcom.jp/202106/sharp-nazol-and-google-translate&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;iPhoneをかざすだけで、Tシャツやお菓子の包み紙に買いてある英語を日本語に変換できる「Google翻訳」アプリケーションが話題だ。電機メーカーのシャープはちょっぴり対抗意識を燃やしてか、英語をなぞるだけで翻訳できる「ナゾル」をあらためて宣伝している。&lt;br&gt;シャープのこれじゃない感が半端無い。自虐ネタにしても痛すぎる。個人的にはこのGoogle翻訳こそがGoogleglassの本命アプリだと思うんだけどな。スマートグラス、早よ！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;GitLab-comが誤って本番DBを削除、バックアップも取れていなくて大騒ぎに（スラド）&quot;&gt;&lt;a href=&quot;#GitLab-comが誤って本番DBを削除、バックアップも取れていなくて大騒ぎに（スラド）&quot; class=&quot;headerlink&quot; title=&quot;GitLab.comが誤って本番DBを削除、バックアップも取れていなくて大騒ぎに（スラド）&quot;&gt;&lt;/a&gt;GitLab.comが誤って本番DBを削除、バックアップも取れていなくて大騒ぎに（スラド）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://it.srad.jp/story/17/02/02/0847239/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ソースコード管理サービスを提供するGitLab.comが1月31日、管理者の操作ミスにより本番DBのデータ300GBを誤ってディレクトリごと削除してしまい、サービス停止状態に陥ったことが明らかになった。&lt;br&gt;失われたDBはIssueやMergeリクエストのもので、Gitリポジトリ本体とWikiは無傷らしいので助かった感じ。それにしてもバックアップは往々にして欲しい時に使えないよな…。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/02/04/20170204-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;1/28〜2/3に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;米スターバックス、モバイル
+    
+    </summary>
+    
+    
+      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>キュレーションまとめ（1/21〜1/27）</title>
@@ -1126,77 +1167,6 @@
 &lt;p&gt;10/1〜10/7に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4 id=&quot;買い物の“お釣り”で投資
-    
-    </summary>
-    
-    
-      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>キュレーションまとめ（9/24〜9/30）</title>
-    <link href="http://trailheaven.github.io/2016/10/01/20161001-1/"/>
-    <id>http://trailheaven.github.io/2016/10/01/20161001-1/</id>
-    <published>2016-10-01T01:52:57.000Z</published>
-    <updated>2016-10-01T02:12:44.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/10/01/20161001-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;9/24〜9/30に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;もしジブリが「ゼルダの伝説」の映画を作ったら？（GIZMODO）&quot;&gt;&lt;a href=&quot;#もしジブリが「ゼルダの伝説」の映画を作ったら？（GIZMODO）&quot; class=&quot;headerlink&quot; title=&quot;もしジブリが「ゼルダの伝説」の映画を作ったら？（GIZMODO）&quot;&gt;&lt;/a&gt;もしジブリが「ゼルダの伝説」の映画を作ったら？（GIZMODO）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.gizmodo.jp/2016/09/the-legend-of-zelda-made-by-ghibli.html?utm_source=atom&amp;amp;utm_medium=rss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ジブリとゼルダの世界の共通項を探り、見事なドリームコラボを実現した映像。ゼルダが映像化するも違和感なし。売れる法則はここにあるのかも&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;タクシー配車の次は“代行運転”–韓国で注目集める「KAKAO-DRIVER」（CNET-JAPAN）&quot;&gt;&lt;a href=&quot;#タクシー配車の次は“代行運転”–韓国で注目集める「KAKAO-DRIVER」（CNET-JAPAN）&quot; class=&quot;headerlink&quot; title=&quot;タクシー配車の次は“代行運転”–韓国で注目集める「KAKAO DRIVER」（CNET JAPAN）&quot;&gt;&lt;/a&gt;タクシー配車の次は“代行運転”–韓国で注目集める「KAKAO DRIVER」（CNET JAPAN）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japan.cnet.com/sp/startup_asia/35089215/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;韓国で「KAKAO TALK（カカオトーク）」「KAKAO TAXI（カカオタクシー）」をリリースしたカカオコミュニケーションが、今回新たに代行運転の「KAKAO DRIVER」をリリースした。電話で代行運転を呼ぶ場合、現在地や目的地に土地勘がないと場所を説明するのが難しいことから、こうした煩わしさも省け、待ち時間も短縮されることが支持されている理由の1つのようだ。またこの「KAKAO DRIVER」には代行運転業者と直接価格を交渉する機能もあるらしい。日本でも地方で根強い人気のある代行運転。日本向けに展開されてもよさそうだ。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;アマゾン、留守中にも家の中まで配送できるサービスを試験か（CNET-JAPAN）&quot;&gt;&lt;a href=&quot;#アマゾン、留守中にも家の中まで配送できるサービスを試験か（CNET-JAPAN）&quot; class=&quot;headerlink&quot; title=&quot;アマゾン、留守中にも家の中まで配送できるサービスを試験か（CNET JAPAN）&quot;&gt;&lt;/a&gt;アマゾン、留守中にも家の中まで配送できるサービスを試験か（CNET JAPAN）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://japan.cnet.com/news/service/35089637/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;荷受け人の不在時にAmazon.comの荷物を宅内に配達できるようマートホーム企業が取り組んでいる。報道によると、すでにシアトルで初期テストが実施されているとのこと。意外だったのが、宅内への配達が選択肢になれば、ユーザーにメリットがあるだけではなく、販売業者の梱包費用も下がる可能性があるのだとか。さまざまな要素から荷物を保護する余分な梱包が不要になるという発想。なるほどな&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;買い物や温泉、指紋でOK-現金も不要-外国人観光客向け、１０月に実証実験（産経ニュース）&quot;&gt;&lt;a href=&quot;#買い物や温泉、指紋でOK-現金も不要-外国人観光客向け、１０月に実証実験（産経ニュース）&quot; class=&quot;headerlink&quot; title=&quot;買い物や温泉、指紋でＯＫ　現金も不要　外国人観光客向け、１０月に実証実験（産経ニュース）&quot;&gt;&lt;/a&gt;買い物や温泉、指紋でＯＫ　現金も不要　外国人観光客向け、１０月に実証実験（産経ニュース）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.sankei.com/smp/economy/news/160928/ecn1609280039-s1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;経済産業相が外国人観光客が指紋などの生体認証で本人確認を行い、現金を使わずに買い物や温泉などが利用できるシステム「おもてなしプラットフォーム」の実証実験を、１０月から関東、関西、九州の３地域で開始すると発表した。訪日客が来日時に、指紋や手のひら（掌紋）などの生体情報とパスポートやクレジットカードなどの情報を登録すれば、宿泊手続きや買い物時の支払いがスムーズになる仕組みを、地域ごとに導入するらとのこと。なぜ観光客だけ？と思ってしまうが、この仕組みの目的には観光客の利便性を向上させるだけでなく、指紋を採取するところもあるらしい。なるほど、納得&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;LINE、外部との通知連携サービス「LINE-Notify」発表-GitHub、IFTTT、Mackerelと連携（ITmediaニュース）&quot;&gt;&lt;a href=&quot;#LINE、外部との通知連携サービス「LINE-Notify」発表-GitHub、IFTTT、Mackerelと連携（ITmediaニュース）&quot; class=&quot;headerlink&quot; title=&quot;LINE、外部との通知連携サービス「LINE Notify」発表　GitHub、IFTTT、Mackerelと連携（ITmediaニュース）&quot;&gt;&lt;/a&gt;LINE、外部との通知連携サービス「LINE Notify」発表　GitHub、IFTTT、Mackerelと連携（ITmediaニュース）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1609/29/news112.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;LINEが外部アプリケーションなどと連携するサービス「LINE Notify」を発表した。これは外部サービスがLINE NotifyのAPIをコールすると、LINE Notifyのbotアカウントがユーザーに通知する仕組み。Webサービス自動連携ツール「IFTTT」とも連携するとのことだが…今すでにslackへ連携しているだけにどう使い分けたらよいものか。悩ましい…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;日本パソコン史を変えた1台。NECのPC-9801が未来技術遺産に登録（MAG2-NEWS）&quot;&gt;&lt;a href=&quot;#日本パソコン史を変えた1台。NECのPC-9801が未来技術遺産に登録（MAG2-NEWS）&quot; class=&quot;headerlink&quot; title=&quot;日本パソコン史を変えた1台。NECのPC-9801が未来技術遺産に登録（MAG2 NEWS）&quot;&gt;&lt;/a&gt;日本パソコン史を変えた1台。NECのPC-9801が未来技術遺産に登録（MAG2 NEWS）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://www.mag2.com/p/news/221764&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;NECのPC-9801が独立行政法人国立科学博物館によって「重要科学技術史資料（未来技術遺産）」に登録されたと発表された。PC-98は個人的に触れたことが無いけど、同業者で飲みに行くと年輩方は必ずPC-98の話をする。今後もまたこの話で盛り上がるんだろな。もっと未来の話をしたいんだけど…&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;神社の絵馬を晒されるのを防ぐプライバシーシール「神のみぞシール」が製造元を募集中（INTERNET-Watch）&quot;&gt;&lt;a href=&quot;#神社の絵馬を晒されるのを防ぐプライバシーシール「神のみぞシール」が製造元を募集中（INTERNET-Watch）&quot; class=&quot;headerlink&quot; title=&quot;神社の絵馬を晒されるのを防ぐプライバシーシール「神のみぞシール」が製造元を募集中（INTERNET Watch）&quot;&gt;&lt;/a&gt;神社の絵馬を晒されるのを防ぐプライバシーシール「神のみぞシール」が製造元を募集中（INTERNET Watch）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://internet.watch.impress.co.jp/docs/yajiuma/1022568.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;絵馬の表面に貼り付けて覗き見を防ぐというプライバシーアイテムがツイッターで話題になっているらしい。見られるのが嫌なら個人名を書かなければいいのに…と思いつつ、そのうちネットで奉納、暗号化バリバリでセキュアな絵馬が登場するのかな。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;3Dプリントで脊椎骨を再現、世界初の移植手術（WIRED）&quot;&gt;&lt;a href=&quot;#3Dプリントで脊椎骨を再現、世界初の移植手術（WIRED）&quot; class=&quot;headerlink&quot; title=&quot;3Dプリントで脊椎骨を再現、世界初の移植手術（WIRED）&quot;&gt;&lt;/a&gt;3Dプリントで脊椎骨を再現、世界初の移植手術（WIRED）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://wired.jp/2016/03/01/3d-printed-vertebrae/?utm_content=bufferbbb0c&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;オーストラリアの神経外科医ラルフ・モブズが、ガンになった頸椎（頭を支えるための脊椎骨）を取り除き、そこに3Dプリントによる椎骨を移植する手術を実施した。手術は成功し、患者は今後リハビリを経て回復していくのだとか。3Dプリンターも凄いがトライした関係者全員に拍手したい&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;手の平に乗る“ファミコン”が11月10日に発売、予約がスタート（AKIBA-PC-Hotline）&quot;&gt;&lt;a href=&quot;#手の平に乗る“ファミコン”が11月10日に発売、予約がスタート（AKIBA-PC-Hotline）&quot; class=&quot;headerlink&quot; title=&quot;手の平に乗る“ファミコン”が11月10日に発売、予約がスタート（AKIBA PC Hotline）&quot;&gt;&lt;/a&gt;手の平に乗る“ファミコン”が11月10日に発売、予約がスタート（AKIBA PC Hotline）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://akiba-pc.watch.impress.co.jp/docs/news/news/1022817.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1983年に任天堂から発売されたファミコンが手の平サイズになって再登場するらしい。それにしてもポケモンgoから続く新旧織り交ぜた戦略が凄まじい。長年トップランナーとして走り続ける企業はやはり違うな。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/10/01/20161001-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;9/24〜9/30に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;もしジブリが「ゼルダの伝
     
     </summary>
     
