@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2017-02-25T00:28:09.000Z</updated>
+  <updated>2017-02-26T07:54:56.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初めての確定申告と気付かされた本の良さ</title>
+    <link href="http://trailheaven.github.io/2017/02/26/20170226-1/"/>
+    <id>http://trailheaven.github.io/2017/02/26/20170226-1/</id>
+    <published>2017-02-26T07:34:44.000Z</published>
+    <updated>2017-02-26T07:54:56.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2017/02/26/20170226-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　先日ライトイールドの確定申告が終わりました。我が社の決算月は12月。確定申告の締切は2月末です。年明け1月は年末調整を処理しつつ、2月からいよいよ作業開始。ところがもうこれが大変の何の。。。今回はその大変さもほどほどに、崖っぷちで助けられた本の紹介と、改めて感じたググレカス社会におけるハウツー本の良さについて触れてみたいと思います。&lt;/p&gt;
+&lt;h2 id=&quot;確定申告とは&quot;&gt;&lt;a href=&quot;#確定申告とは&quot; class=&quot;headerlink&quot; title=&quot;確定申告とは&quot;&gt;&lt;/a&gt;確定申告とは&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;　確定申告（かくていしんこく）とは、日本の租税に関する申告手続を言い、日本においては次の諸点を指す。&lt;/p&gt;
+&lt;p&gt;　個人が、その年1月1日から12月31日までを課税期間として、その期間内の収入・支出、医療費や寄付、扶養家族状況などから所得を計算した申告書を税務署へ提出し、納付すべき所得税額を確定すること&lt;br&gt;法人が、原則として定款に定められた事業年度を課税期間としてその期間内の所得を計算した申告書を税務署へ提出し、納付すべき法人税額を確定すること消費税の課税事業者である個人又は法人が、課税期間内における消費税額を計算した申告書を税務署へ提出し、その納税額を確定すること（&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ウィキペディア&lt;/a&gt;より）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;　上記説明は個人ですが、法人も人として扱われますので考え方は同じ。法人税や事業税といった各種税金を自分たちで計算して納付する仕組みです。と言いつつこの仕組み、実は全く知りませんでした。てっきり、決算書を税務署に送れば納税通知書が送られてくるのかと。それがまさか自分たちで作らないといけないだなんて。。。&lt;/p&gt;
+&lt;h2 id=&quot;確定申告で苦労したこと&quot;&gt;&lt;a href=&quot;#確定申告で苦労したこと&quot; class=&quot;headerlink&quot; title=&quot;確定申告で苦労したこと&quot;&gt;&lt;/a&gt;確定申告で苦労したこと&lt;/h2&gt;&lt;p&gt;　確定申告の時期になると、国税庁、大阪府、吹田市から申告に必要な資料が送られてきます。申告書は個々に提出する必要があり、様式もそれぞれ異なります。また、各申告書には別表と呼ばれるものが付いており、別表をまとめることで最終的に申告書を書くことができるといった仕組みです。つまり、申告書の根拠となる数字が別表に当たるイメージです。&lt;/p&gt;
+&lt;p&gt;　しかしまぁ、この書類たち。書き方の説明がほとんどないんですよね。特に別表の中で他の別表の数字が使われることもあり、一度見方を間違えれば無限ループ（循環参照）に陥るなんてこともありました。「毎年の恒例行事だからいつものようによろしく」といった雰囲気で送られてくるのですが、他方では「間違った申告は脱税の容疑が掛けられます」といった脅し文句もあり、初心者には気が気じゃありません。&lt;/p&gt;
+&lt;h2 id=&quot;Google検索でも分からない&quot;&gt;&lt;a href=&quot;#Google検索でも分からない&quot; class=&quot;headerlink&quot; title=&quot;Google検索でも分からない&quot;&gt;&lt;/a&gt;Google検索でも分からない&lt;/h2&gt;&lt;p&gt;　仕方がないので、書き方についてGoogle先生にお伺いを立てるのですが、今回はどうもこれといった情報に出会えませんでした。どのサイトも基本的な言葉はわかってる前提で書かれているため、そもそもの言葉の意味で詰まる自分にとってはスタートラインにすら立てない状態です。極端な例で言うと「『消費税』には消費税を書きましょう」みたいな説明であり、『消費税』とは何に対する消費税なのかが解決できないのです。&lt;/p&gt;
+&lt;h2 id=&quot;最後は本に助けられた&quot;&gt;&lt;a href=&quot;#最後は本に助けられた&quot; class=&quot;headerlink&quot; title=&quot;最後は本に助けられた&quot;&gt;&lt;/a&gt;最後は本に助けられた&lt;/h2&gt;&lt;p&gt;　途方に暮れていたとき、あるブログで本の紹介を見つけました。私と同じように自分で確定申告を行なう人のブログで、自分の基礎知識はこのハウツー本にあると書かれていたのです。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/02/26/20170226-1/photo2.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　&lt;a href=&quot;http://amzn.asia/bPGa3ub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;別表の書き方がスラスラわかる　法人税申告書　虎の巻　（著 野田美和子）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　藁にもすがる思いでAmazonから「お急ぎ便」で購入。お陰で翌日には確定申告書を一気に書き上げることができました。&lt;/p&gt;
+&lt;h2 id=&quot;改めて気付いた本の良さ&quot;&gt;&lt;a href=&quot;#改めて気付いた本の良さ&quot; class=&quot;headerlink&quot; title=&quot;改めて気付いた本の良さ&quot;&gt;&lt;/a&gt;改めて気付いた本の良さ&lt;/h2&gt;&lt;p&gt;　本の良さは情報量の多さ。まさにコレにつきます。流石に一つのサイトでこの情報量を網羅するのは難しいでしょう。その為、ネットはある程度範囲が限定された情報で構成されています。この環境、自分にそこそこの知識があり、一点を深掘りする場合には威力を発揮するのですが、今回のように自分が何も理解していない場合には、どこから調べれば良いのかが分からない。糸口を掴めたとしても、もの凄い時間と集中力が奪われるといった感じでした。&lt;/p&gt;
+&lt;p&gt;　本の場合、必ずと言っていいほど初めに全体を俯瞰できるページがあります。このページを見れば自分がどこに居て、何を知りたいのかがおぼろげなから見えてきます。そして必要な箇所のページを捲れば詳細を知ることもできます。また、各ページが同じ粒度で書かれていることも大切だと感じました。&lt;/p&gt;
+&lt;h2 id=&quot;あとがき&quot;&gt;&lt;a href=&quot;#あとがき&quot; class=&quot;headerlink&quot; title=&quot;あとがき&quot;&gt;&lt;/a&gt;あとがき&lt;/h2&gt;&lt;p&gt;　当たり前なんですけどね。本の良さを書ききつつ思いました。それが本なんだと。正直言うと、今のググレカス社会ではハウツー本なんて必要無いという考えがありました。情報はネット上に集まっているのに、本なんてアナログで非生産的だと。しかし、今回の一件で自分の考え方を見直す機会となった次第です。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/02/26/20170226-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;　先日ライトイールドの確定申告が終わりました。我が社の決算月は12月。確定申告の締切は2月末です。年明け1月は年末調整を処理しつつ、2月からいよい
+    
+    </summary>
+    
+    
+      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
+    
+      <category term="確定申告" scheme="http://trailheaven.github.io/tags/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>Facebookまとめ（2/18〜2/24）</title>
@@ -1107,47 +1148,6 @@
 &lt;p&gt;11/05〜11/11に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4 id=&quot;クジラの体表を歩いて
-    
-    </summary>
-    
-    
-      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>キュレーションまとめ（10/29〜11/04）</title>
-    <link href="http://trailheaven.github.io/2016/11/05/20161105-1/"/>
-    <id>http://trailheaven.github.io/2016/11/05/20161105-1/</id>
-    <published>2016-11-05T05:38:14.000Z</published>
-    <updated>2016-11-05T05:53:57.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/11/05/20161105-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;10/29〜11/04に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;6秒で完璧な歯磨きができる「3Dプリントの歯ブラシ」（WIRED）&quot;&gt;&lt;a href=&quot;#6秒で完璧な歯磨きができる「3Dプリントの歯ブラシ」（WIRED）&quot; class=&quot;headerlink&quot; title=&quot;6秒で完璧な歯磨きができる「3Dプリントの歯ブラシ」（WIRED）&quot;&gt;&lt;/a&gt;6秒で完璧な歯磨きができる「3Dプリントの歯ブラシ」（WIRED）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://wired.jp/2013/10/03/blizzident/?utm_content=buffer90a2b&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;歯科医にとってもらったスキャンを基にして、3D印刷で作られる歯ブラシ「Blizzident」。さまざまな角度で毛が植えられており、噛み締めることで車の洗浄機のごとく歯を磨く。これにより、すべての歯が均等に磨かれるというんだから凄い。試してみたいな&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;IBM元開発者「チェス王者にスパコンが勝てたのは、バグのおかげ」（WIRED）&quot;&gt;&lt;a href=&quot;#IBM元開発者「チェス王者にスパコンが勝てたのは、バグのおかげ」（WIRED）&quot; class=&quot;headerlink&quot; title=&quot;IBM元開発者「チェス王者にスパコンが勝てたのは、バグのおかげ」（WIRED）&quot;&gt;&lt;/a&gt;IBM元開発者「チェス王者にスパコンが勝てたのは、バグのおかげ」（WIRED）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://wired.jp/2012/10/03/deep-blue-computer-bug/?utm_content=buffer45d9b&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1997年5月にIBMのスーパーコンピューター「ディープブルー」が、当時チェスの世界王者だったゲイリー・カスパロフに勝利した話。この時、世界王者が敗北を喫したある一手について、実はあの対戦から15年が経ったいま、ディープブルーの設計に携わったあるエンジニアがあの動きがバグのせいで生じたものだったことを明らかにした。コンピューターによるものとは思えない、非常に洗練された動きと称された一手。これがバグだなんて…有り得る話だから面白い&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;『-シンゴジ実況』の再現度が高すぎてTwitterが大混乱中w（NAVERまとめ）&quot;&gt;&lt;a href=&quot;#『-シンゴジ実況』の再現度が高すぎてTwitterが大混乱中w（NAVERまとめ）&quot; class=&quot;headerlink&quot; title=&quot;『#シンゴジ実況』の再現度が高すぎてTwitterが大混乱中ｗ（NAVERまとめ）&quot;&gt;&lt;/a&gt;『#シンゴジ実況』の再現度が高すぎてTwitterが大混乱中ｗ（NAVERまとめ）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2147814268443357301?&amp;amp;page=1&amp;amp;utm_content=buffer561b1&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;11/3映画『シン・ゴジラ』でゴジラが出現した日付にちなみ、Twitterで『#シンゴジ実況』が祭られた。このリアルタイム実況祭りに参加するTwitter民の本気が面白く、Twitterの使い方って色々あるんだなと思わせる。奇しくもTwitterの成長率は日本が世界一とのニュースもあったし、これは納得するしかない。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/11/05/20161105-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;10/29〜11/04に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4 id=&quot;6秒で完璧な歯磨きが
     
     </summary>
     
