@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trailheaven.github.io/"/>
-  <updated>2017-03-11T00:15:37.000Z</updated>
+  <updated>2017-03-18T00:22:59.000Z</updated>
   <id>http://trailheaven.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Facebookまとめ（3/11〜3/17）</title>
+    <link href="http://trailheaven.github.io/2017/03/18/20170318-1/"/>
+    <id>http://trailheaven.github.io/2017/03/18/20170318-1/</id>
+    <published>2017-03-18T00:19:54.000Z</published>
+    <updated>2017-03-18T00:22:59.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/2017/03/18/20170318-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;3/11〜3/17に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;日本郵便の大炎上プロジェクト、火消し人は何をしたか？（ITpro）&quot;&gt;&lt;a href=&quot;#日本郵便の大炎上プロジェクト、火消し人は何をしたか？（ITpro）&quot; class=&quot;headerlink&quot; title=&quot;日本郵便の大炎上プロジェクト、火消し人は何をしたか？（ITpro）&quot;&gt;&lt;/a&gt;日本郵便の大炎上プロジェクト、火消し人は何をしたか？（ITpro）&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;http://itpro.nikkeibp.co.jp/atcl/column/17/030600066/030600001/?ST=spleaf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;gt;&amp;gt;記事はこちら&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;日本郵便の大炎上プロジェクトを日本銀行やメガバンクなど金融系大規模プロジェクトの経験が豊富な佐々木氏が立て直したお話。&lt;br&gt;メンバーからの報告を「あと何日」「残タスク」に変更したことが功を奏したとのこと。これには激しく同意。ガントチャート形式のWBSは未来を予測するためのツールであり、そのツールを活かす為には自ずとこのような質問になるもの。WBSを使っていながら過去や現在にこだわる人がどれほど多いことか。この辺り、ブログでもピックアップしてます。&lt;a href=&quot;https://trailheaven.github.io/tags/WBS/&quot;&gt;https://goo.gl/N3i41q&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;ではまた▷L◁&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/03/18/20170318-1/photo.jpg&quot; alt=&quot;photo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;3/11〜3/17に私がFacebookでピックアップした記事をご紹介。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;日本郵便の大炎上プロジェ
+    
+    </summary>
+    
+    
+      <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>Facebookまとめ（3/4〜3/10）</title>
@@ -1102,62 +1133,6 @@
     
     
       <category term="キュレーション" scheme="http://trailheaven.github.io/tags/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WBSの勘所（５選）</title>
-    <link href="http://trailheaven.github.io/2016/11/23/20161123-1/"/>
-    <id>http://trailheaven.github.io/2016/11/23/20161123-1/</id>
-    <published>2016-11-23T05:42:25.000Z</published>
-    <updated>2016-12-11T03:59:50.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;WBSの勘所として、私がWBSを作る際に意識している点をまとめてみました。&lt;/p&gt;
-&lt;h2 id=&quot;WBSの勘所&quot;&gt;&lt;a href=&quot;#WBSの勘所&quot; class=&quot;headerlink&quot; title=&quot;WBSの勘所&quot;&gt;&lt;/a&gt;WBSの勘所&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;プロジェクトのゴールを定義する&lt;/li&gt;
-&lt;li&gt;ゴールまでの作業を洗い出す&lt;/li&gt;
-&lt;li&gt;作業を単位当たり１人日程度にバラす&lt;/li&gt;
-&lt;li&gt;作業の依存関係を設定する&lt;/li&gt;
-&lt;li&gt;WBSを随時更新する&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;WBSとは&quot;&gt;&lt;a href=&quot;#WBSとは&quot; class=&quot;headerlink&quot; title=&quot;WBSとは&quot;&gt;&lt;/a&gt;WBSとは&lt;/h2&gt;&lt;p&gt;まずはWBSの定義から。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;WBSとは、プロジェクトマネジメントで計画を立てる際に用いられる手法の一つで、プロジェクト全体を細かい作業に分割した構成図。&lt;/p&gt;
-&lt;p&gt;WBSでは、まずプロジェクトの成果物をできるだけ細かい単位に分解していく。その際、全体を大きな単位に分割してから、それぞれの部分についてより細かい単位に分割していき、階層的に構造化していく。成果物の細分化が終わったら、それぞれの部分を構成するのに必要な作業（一つとは限らない）を考え、最下層に配置していく。個々の部分を構成する一連の作業のかたまりのことを「ワークパッケージ」と呼ぶ。WBSのそれぞれのワークパッケージに担当する人員を配置していけば、プロジェクトを遂行する組織図ができる。これをOBS（Organization Breakdown Structure）と呼ぶ。(&lt;a href=&quot;http://e-words.jp/w/WBS.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IT用語辞典 e-Words&lt;/a&gt;より)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;1-プロジェクトのゴールを定義する&quot;&gt;&lt;a href=&quot;#1-プロジェクトのゴールを定義する&quot; class=&quot;headerlink&quot; title=&quot;1. プロジェクトのゴールを定義する&quot;&gt;&lt;/a&gt;1. プロジェクトのゴールを定義する&lt;/h2&gt;&lt;p&gt;　「プロジェクト全体を細かい作業に分割したものをWBSと呼ぶ」と定義されている通り、WBSはプロジェクトがあってこその構成図です。そのため、まずはプロジェクトのゴールを設定するところから始めます。&lt;/p&gt;
-&lt;p&gt;　と言っても難しいことはせず、ただ単純に関係者に対してプロジェクトの目的やゴールをどう考えているかを聞き、理想的なゴールを定義するイメージです。&lt;/p&gt;
-&lt;p&gt;　例えば「カレーライスを作る」と言うプロジェクトがあった場合、そのゴールは「カレーライスを作る」までなのか、「カレーライスをテーブルに並べる」までなのか、「後片付けをする」までなのかを決めると言った感じです。&lt;/p&gt;
-&lt;h2 id=&quot;2-ゴールまでの作業を洗い出す&quot;&gt;&lt;a href=&quot;#2-ゴールまでの作業を洗い出す&quot; class=&quot;headerlink&quot; title=&quot;2. ゴールまでの作業を洗い出す&quot;&gt;&lt;/a&gt;2. ゴールまでの作業を洗い出す&lt;/h2&gt;&lt;p&gt;　プロジェクトのゴールが決まれば、ゴールまでに必要な作業を洗い出します。ここでは作業の大小や前後関係を考えず、ブレーンストーミングさながら思いつくままにリストアップします。どんなに大雑把でも、無理難題な作業でもいいので、完了までの道を書きます。詳細が不明確な作業も現時点で要否を判断せず、リストに含めます。&lt;/p&gt;
-&lt;p&gt;　大事なことは &lt;strong&gt;「ゴールまでの道を想像しながら作業を書き出す」&lt;/strong&gt;ことです。当たり前ですが、ゴールまでの道が書けなければプロジェクトがゴールすることはありません。粒度は荒くてもいいので、このタイミングで必ずシミュレーションを行い、ゴールまでの道を書くようにします。&lt;/p&gt;
-&lt;p&gt;　もし「カレーライスを作る」プロジェクトで「ご飯を作る」作業が抜けてしまった場合、「カレーは飲み物か」問題が発生して大変です。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo2.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;「カレーライスを作る」プロジェクトのWBS&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;3-作業を単位当たり１人日程度にバラす&quot;&gt;&lt;a href=&quot;#3-作業を単位当たり１人日程度にバラす&quot; class=&quot;headerlink&quot; title=&quot;3. 作業を単位当たり１人日程度にバラす&quot;&gt;&lt;/a&gt;3. 作業を単位当たり１人日程度にバラす&lt;/h2&gt;&lt;p&gt;　ゴールまでの作業を洗い出した後はこれらリストを細かく分解します。目標は１作業当たり１人日程度の作業ボリュームです。１人日程度のボリュームであれば、その作業が妥当かどうかを判断しやすいからです。作業工数が大きければ大きくなるほど、その数字が妥当なのかどうか判断が難しくなります。&lt;/p&gt;
-&lt;p&gt;　もちろん「そうは言っても…」という作業は往往にしてあります。その場合は潔く諦め、無理せずそにのままにしておきます。１人日はあくまでも目標値です。&lt;/p&gt;
-&lt;p&gt;　「カレーライスを作る」プロジェクトは恐らく１人日以下のプロジェクトでしょう。このような場合は作業の単位を「日」から「時間」に変更します。&lt;/p&gt;
-&lt;h2 id=&quot;4-作業の依存関係を設定する&quot;&gt;&lt;a href=&quot;#4-作業の依存関係を設定する&quot; class=&quot;headerlink&quot; title=&quot;4. 作業の依存関係を設定する&quot;&gt;&lt;/a&gt;4. 作業の依存関係を設定する&lt;/h2&gt;&lt;p&gt;　作業が出揃った後は、各作業の依存関係を設定します。作業によっては他の作業が完了しないと着手できない場合もありますし、他の作業と同時に着手できる作業もあります。これら依存関係はプロジェクトの作業期間に影響するため、可能な限り洗い出すようにします。&lt;/p&gt;
-&lt;p&gt;　「カレーライスを作る」プロジェクトの「ご飯を作る」と「カレールーを作る」は同時に開始することができますが、「お皿に入れる」作業はこれら２つの作業が完了していないと着手できません。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo3.jpg&quot; width=&quot;300px&quot; height=&quot;200px&quot; alt=&quot;「カレーライスを作る」プロジェクトのWBS&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;5-WBSを随時更新する&quot;&gt;&lt;a href=&quot;#5-WBSを随時更新する&quot; class=&quot;headerlink&quot; title=&quot;5. WBSを随時更新する&quot;&gt;&lt;/a&gt;5. WBSを随時更新する&lt;/h2&gt;&lt;p&gt;　WBSは&lt;strong&gt;「生き物」&lt;/strong&gt;です。日々刻々と変化する状況の中、時間の経過とともに作業が変わるのは世の常です。今まであやふやだった作業も着手前になれば明確になります。私の場合、作業に変化が生じると即座にWBSへ反映させるようにしています。そのため、私が作成するWBSはプロジェクト開始前に作ったものは作業の粒度が荒く、時間の経過と共に粒度が細かくなり、プロジェクトが完了する頃には全てが実際に行った作業に置き変わる感じです。&lt;/p&gt;
-&lt;p&gt;　ただし、人月ベースの作業見積もりを行う場合は、プロジェクト開始前に作ったWBSが使われることが一般的です。それが原因で、プロジェクト開始前のWBSは往々にして一人歩きします。更にはWBSの変更が簡単に受け入れられないケースもありますので注意が必要です。WBSを随時変更すると「計画的に実行できていない」と見られるんですね。私には「プロジェクトが柔軟に対応できて健康的」と見えるのですが。&lt;/p&gt;
-&lt;p&gt;　とは言え、「カレーライスを作る」プロジェクトでWBSが頻繁に更新される場合、単位が時間ですので流石に「計画的に実行できていない」と言われても仕方がありませんね…。&lt;/p&gt;
-&lt;h2 id=&quot;終わりに&quot;&gt;&lt;a href=&quot;#終わりに&quot; class=&quot;headerlink&quot; title=&quot;終わりに&quot;&gt;&lt;/a&gt;終わりに&lt;/h2&gt;&lt;p&gt;いかがでしたか。以上に挙げた勘所が皆さんの参考になれば幸いです。&lt;/p&gt;
-&lt;p&gt;ではまた▷L◁&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2016/11/23/20161123-1/photo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;WBSの勘所として、私がWBSを作る際に意識している点をまとめてみました。&lt;/p&gt;
-&lt;h2 id=&quot;WBSの勘所&quot;&gt;&lt;a href=&quot;#WBSの勘所&quot; cl
-    
-    </summary>
-    
-    
-      <category term="ライトイールド" scheme="http://trailheaven.github.io/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A4%E3%83%BC%E3%83%AB%E3%83%89/"/>
-    
-      <category term="WBS" scheme="http://trailheaven.github.io/tags/WBS/"/>
     
   </entry>
   
