@@ -83,6 +83,169 @@
         <div class="outer">
             
             <section id="main">
+    <article id="post-20161211-1" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/2016/12/11/20161211-1/">ガントチャートの決め手は平準化</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/2016/12/11/20161211-1/">
+            <time datetime="2016-12-11T02:25:23.000Z" itemprop="datePublished">2016-12-11</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/WBS/">WBS</a>, <a class="tag-link" href="/tags/ライトイールド/">ライトイールド</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p><img src="/2016/12/11/20161211-1/photo.jpg" alt="photo"></p>
+<p>　ガントチャートツールを選ぶ際、私は「平準化」が行えるかを基準に考えます。ということで、今回は平準化とは何なのか、また何がそんなに嬉しいのかについて書いてみたい思います。</p>
+<h2 id="ガントチャートの平準化"><a href="#ガントチャートの平準化" class="headerlink" title="ガントチャートの平準化"></a>ガントチャートの平準化</h2><ol>
+<li>平準化とは</li>
+<li>ガントチャートの平準化が行うこと</li>
+<li>平準化はいつ、何のために使うのか</li>
+<li>平準化を使うメリットとは</li>
+<li>平準化が使えるガントチャートツール</li>
+</ol>
+<h2 id="1-平準化とは"><a href="#1-平準化とは" class="headerlink" title="1. 平準化とは"></a>1. 平準化とは</h2><p>まずは平準化の定義から。</p>
+<blockquote>
+<p>　需要や業務負荷などが特定の時期や資源に集中しているといった偏りを排し、均等に配分すること。</p>
+<p>　製造業で生産品種ごとにロット生産を行った場合、生産中は生産設備や人員はフル操業となるが、その品種を生産していない期間も設備や在庫を持つことになる。トヨタ生産方式ではこれを“ムラ”と考え、生産の平準化を推奨・実施している。</p>
+<p>　プロジェクトマネジメントなどでは、プロジェクトの計画段階で特定の人員にタスクが集中してしまうことがあるが、このままでは実施不可能である。そこでリソースヒストグラムを利用して、作業の平準化を行う。</p>
+<p>　業務システムにおいては、アプリケーションごとにサーバを立てると「昼間はアクセスが集中するが、夜間は遊休化してしまう」ことが多い。そこで仮想化技術によって、業務アプリケーションサーバと夜間バッチサーバでサーバ資源を共有化し、サーバ負荷の平準化を行うといったソリューションが推奨されている。</p>
+<p>(<a href="http://www.itmedia.co.jp/im/articles/0808/13/news068.html" target="_blank" rel="external">ITmedia 情報マネジメント用語辞典</a>より)</p>
+</blockquote>
+<p>　大きな括りの言葉ではありますが、これから説明する平準化とは、「プロジェクトメンバーの作業を平すこと」を指します。</p>
+<h2 id="2-ガントチャートの平準化が行うこと"><a href="#2-ガントチャートの平準化が行うこと" class="headerlink" title="2. ガントチャートの平準化が行うこと"></a>2. ガントチャートの平準化が行うこと</h2><p>　ガントチャートツールの平準化とは一体どんな機能なのか。まずは平準化を行う前後のガントチャートを見て下さい。</p>
+<p><img src="/2016/12/11/20161211-1/photo2.jpg" width="300px" height="200px" alt="平準化前のプロジェクト"></p>
+<p><img src="/2016/12/11/20161211-1/photo3.jpg" width="300px" height="200px" alt="平準化後のプロジェクト"></p>
+<p>　平準化を行うことで、メンバーの作業が平されたのが分かります。これは予め設定された1日の作業時間を超えたためであり、結果、コンピューターはメンバーの負荷を減らしつつも、プロジェクトの期間が長くなるように変更しています。つまり、平準化とはメンバーの負荷を考えながら、プロジェクト期間をより現実的なものに変えてくれる機能なのです。</p>
+<h2 id="3-平準化はいつ、何のために使うのか"><a href="#3-平準化はいつ、何のために使うのか" class="headerlink" title="3. 平準化はいつ、何のために使うのか"></a>3. 平準化はいつ、何のために使うのか</h2><p>　平準化を使うタイミングは「いつでも」です。ガントチャートの作業を追加した、変更した、削除した等々、ガントチャートに対して変更を加えた時は常に平準化を行います。では何のために使うのか、それは<strong>「未来を予測するため」</strong>です。</p>
+<p>　私はガントチャートツールを「コンピューターに未来を予測してもらうツール」と捉えています。コンピューターに未来を予測してもらうことで、これからのスケジュールが客観的に見られるからです。自分で考えると、自分の守備範囲でしか計算が行われません。特に期待値などを含む個人的感情で物事の優先順位が決まりがちで、結果として実態とはズレた精度の低いスケジュールになってしまいます。</p>
+<p>　では、平準化のないガントチャートツールで計画を立てるとどのような未来になるのでしょうか？答えは簡単です、自分が頭に描いた未来予測にしかなりません。自分の考え方が正しいことを前提にした、自分にとって気持ちの良い（キレイな）ガントチャートが生まれるだけです。言い換えるなら、自分にとって都合良く作られたスケジュールが生まれるだけです。</p>
+<h2 id="4-平準化を使うメリット"><a href="#4-平準化を使うメリット" class="headerlink" title="4. 平準化を使うメリット"></a>4. 平準化を使うメリット</h2><p>　先述の通り、平準化を使うメリットはコンピューターが計算することにあります。自分で考えるのではなく、コンピューターに考えてもらうことで、何度も繰り返し計算を行うことができます。時にはコンピューターが計算することで自分の予想と違う結果も生まれますが、これも設定されたパラメータが間違っていなければ生まれるべくして生まれた計画です。</p>
+<p>　平準化を嫌う人の多くは、この予想と違う結果が生まれることを嫌います。つまり、「自分の思う通りにならないから」という理由ですが、それはどうでしょうか。私は自分が正しいと過信するのではなく、コンピューターの考えた結果を選択肢の一つとして検討すべきと考えます。</p>
+<p>　実際、私がスケジュールを計画する際は、パラメータの設定に一番時間を使います。そして、後はコンピュータが計算した結果を採用するようにしています。ただし、結果を採用するまでの間、パラメータを細かく変更しつつ、どのような状態でプロジェクトを運営するのが一番効率の良い方法か、をとことんシミュレーションします。</p>
+<h2 id="5-平準化が使えるガントチャートツール"><a href="#5-平準化が使えるガントチャートツール" class="headerlink" title="5. 平準化が使えるガントチャートツール"></a>5. 平準化が使えるガントチャートツール</h2><p>　世の中にはガントチャートツールがたくさんありますが、平準化の行える機能は意外とありません。私が知る限り以下の２択しか無く、それもOSによってどちらかが決定します。</p>
+<ul>
+<li><p><a href="https://www.microsoft.com/ja-jp/project" target="_blank" rel="external">Microsoft Project</a><br>　言わずと知れたガントチャートの王道です。私自身このツールが大好きで、前職では10年近くお世話になりました。多彩なパラメータをもとにする平準化は複雑で、未来予測のシミュレーションを行うには打ってつけです。クラウド版、デスクトップ版とアプリケーションの形態も多岐に渡るのですが、残念ながら平準化はデスクトップ版にしか実装されていないようです。Macユーザーにとっては敷居が高いため、現在は利用していません。</p>
+</li>
+<li><p><a href="https://www.omnigroup.com/omniplan" target="_blank" rel="external">Omni Plan</a><br>　Macユーザー向けのガントチャートツールです。StandardはMacOS版とiOS版の２種類展開で、ProはMacOS版のみの展開です。平準化はStandardに含まれていますので、私は値段の安いこちらを使用しています。このアプリの特徴は、UIでしょうか。デザインが綺麗ですし、操作も直感的に行えるように工夫されています。一方、残念な点もあります。不具合に近い症状なのですが「保存していないのに上書き保存される」「元の状態に戻ろうと操作を取り消しても、変な状態に戻ってしまう」などなど。品質にいささかの疑問がありますので、使用する際には必ず作業前のバックアップを取るなどの注意が必要です。なおアプリには日本語版仕様がありますが、サポートは英語です。日本語で問い合わせると、翻訳ツールを通したと思われる難解な日本語で返事が返ってきます。</p>
+</li>
+</ul>
+<h2 id="終わりに"><a href="#終わりに" class="headerlink" title="終わりに"></a>終わりに</h2><p>　いかがでしたか。ガントチャートツールはスケジュールを管理するのではなく、未来を予測するツール。そう考えると、これまでとは少し違った目線で見ることができるのではないかと思います。私はWBSに変更があればすぐさまガントチャートツールで平準化を行い、こらからのスケジュールを変更します。当初計画からの変更を嫌う人がいますが、私は<strong>「過去の計画に捉われず、現在の状況を正確に把握し、未来を客観的に予測する」</strong>を繰り返すことがプロジェクト管理のキモだと考えています。</p>
+<p>　平準化を使ったことがない人、平準化が苦手な人にとって参考になれば幸いです。ではまた▷L◁</p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="http://trailheaven.github.io/2016/12/11/20161211-1/" data-id="cj74uliwo002c71h9g99k89tk" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="http://trailheaven.github.io/2016/12/11/20161211-1/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="http://trailheaven.github.io/2016/12/11/20161211-1/">コメント</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
     <article id="post-20161210-1" class="article article-type-post" itemscope itemprop="blogPost">
     <div class="article-inner">
         
@@ -179,7 +342,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/12/10/20161210-1/" data-id="cj6sxk5ah0029zqh98qpnzr2o" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/12/10/20161210-1/" data-id="cj74uliwi002a71h9yyv0r084" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -318,7 +481,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/12/03/20161203-1/" data-id="cj6sxk5af0027zqh9b57nzmes" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/12/03/20161203-1/" data-id="cj74uliwd002571h9m20mjf5z" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -487,7 +650,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/11/26/20161126-1/" data-id="cj6sxk5a30024zqh9rxthin2h" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/11/26/20161126-1/" data-id="cj74uliwf002771h9jcib9amh" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -645,7 +808,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/11/23/20161123-1/" data-id="cj6sxk5a20022zqh9q4xszmgp" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/11/23/20161123-1/" data-id="cj74uliw9002271h9xt3rtwso" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -799,7 +962,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/11/19/20161119-1/" data-id="cj6sxk59w001uzqh9r4qbrfl4" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/11/19/20161119-1/" data-id="cj74uliw3001x71h9ij8ruwkc" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -968,7 +1131,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/11/12/20161112-1/" data-id="cj6sxk5a0001zzqh9au2eq622" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/11/12/20161112-1/" data-id="cj74uliw6002071h9avg083im" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -1112,7 +1275,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/11/05/20161105-1/" data-id="cj6sxk59z001xzqh9p5p3ilrn" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/11/05/20161105-1/" data-id="cj74ulivz001v71h94j165kxo" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -1291,7 +1454,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/10/29/20161029-1/" data-id="cj6sxk59t001szqh9mwwhv7pm" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/10/29/20161029-1/" data-id="cj74ulivr001s71h9zzz00ox1" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -1435,7 +1598,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/10/22/20161022-1/" data-id="cj6sxk59r001nzqh9l5a9ttln" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/10/22/20161022-1/" data-id="cj74ulivp001q71h9sh8dr5rg" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -1513,165 +1676,6 @@
 
 
 
-    <article id="post-20161015-1" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/2016/10/15/20161015-1/">キュレーションまとめ（10/8〜10/14）</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fa fa-calendar"></i>
-        <a href="/2016/10/15/20161015-1/">
-            <time datetime="2016-10-15T05:20:07.000Z" itemprop="datePublished">2016-10-15</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fa fa-tag"></i>
-        <a class="tag-link" href="/tags/キュレーション/">キュレーション</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <p><img src="/2016/10/15/20161015-1/photo.jpg" alt="photo"></p>
-<p>10/8〜10/14に私がFacebookでピックアップした記事をご紹介。</p>
-<p><br></p>
-<h4 id="在宅勤務の女性に朗報！-オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）"><a href="#在宅勤務の女性に朗報！-オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）" class="headerlink" title="在宅勤務の女性に朗報！ オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）"></a>在宅勤務の女性に朗報！ オンライン会議用自動メークアプリ「TeleBeauty」（GIZMODO）</h4><p><a href="http://www.gizmodo.jp/2016/10/telebeauty-skype.html?utm_source=atom&amp;utm_medium=rss" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>資生堂は日本マイクロソフトの協力のもと、Webカメラを使ったオンライン会議時に表示される顔に、自動でメークや顔色補正を行なうアプリを開発した。その名も「TeleBeauty」（テレビューティー）。これにより在宅勤務中に突然オンライン会議が入っても、メークする手間が省けるんだとか。こんなこと逆立ちしても思いつかない。さすがは女性ならではの目線。</p>
-</blockquote>
-<p><br></p>
-<h4 id="SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）"><a href="#SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）" class="headerlink" title="SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）"></a>SpeakBuddy、AIと対話してひとり英会話レッスン（週刊アスキー）</h4><p><a href="http://weekly.ascii.jp/elem/000/000/386/386253/" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>AIのキャラクターと英会話ができるSpeakBuddy。面白そうなのでちょっと試してみます。</p>
-</blockquote>
-<p><br></p>
-<h4 id="Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）"><a href="#Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）" class="headerlink" title="Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）"></a>Googleウェブ検索がカラーピッカー機能を搭載。16進およびRGBで検索、CMYKなども確認可能（engadget）</h4><p><a href="http://japanese.engadget.com/2016/10/10/google-16-rgb-cmyk/" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>Googleにカラーピッカー機能が搭載された。カラーピッカーとは16進カラーコードと色の相関を確認するための機能。たとえば #66cdaa というワードでGoogle検索すれば、カラーマップとともにパステル系の緑色が画面に表示されるらしい。便利なんだろうけど、結局あること忘れてお気に入りのサイトで調べる気がする…</p>
-</blockquote>
-<p><br></p>
-<h4 id="アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）"><a href="#アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）" class="headerlink" title="アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）"></a>アララのブロックチェーン報告書から、RDBMSと比べた利点・欠点を読み解く（ITpro）</h4><p><a href="http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101100657/?n_cid=nbpitp_fbbn_top&amp;ST=spleaf" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>電子マネーサービス「point+plus」の運営などを手掛けるアララが2016年10月11日、ブロックチェーン技術の電子マネーへの適用可能性を実証する実験の報告書を公開した。この実験は、ブロックチェーンソフト「mijin」を使って独自のトークン「アララコイン」を発行し、電子マネーに多い多対1の取引を中心に、耐障害試験や負荷試験を実施したもの。実験の結果、アララは「課題はいくつかあるものの、不整合性が発生することなく、1分間に3000以上の取引が可能であり、データの改ざんが困難かつデータ消失を防止する仕組みに実用性、容易性が高いことが証明された」との結論を得たという。読むと納得、勉強になります。</p>
-</blockquote>
-<p><br></p>
-<h4 id="金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET-Watch）"><a href="#金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET-Watch）" class="headerlink" title="金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET Watch）"></a>金沢市の今昔を比較できる地図アプリ「古今金澤」、古地図上にくずし字で記載されている寺社名や武士名の表示・検索にも対応（INTERNET Watch）</h4><p><a href="http://internet.watch.impress.co.jp/docs/column/chizu/1024296.html" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>石川県の株式会社エイブルコンピュータが金沢市の古地図と現在の地図を見比べられるiOSアプリ「古今金澤」をリリースした。古地図と現在の地図を上下の画面で同時に閲覧・比較可能。収録している古地図は、石川県立図書館が所蔵する「寛文7年金沢図」（1667年）で、これは現存する最古の大型絵図だとか。金沢限定だけど、こういうの好きな人って多いんじゃないかしら。</p>
-</blockquote>
-<p><br></p>
-<h4 id="新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）"><a href="#新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）" class="headerlink" title="新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）"></a>新車オーナーの大部分が搭載カーナビに不満を抱きスマホでナビを行っていることが明らかに（Gigazine）</h4><p><a href="http://gigazine.net/news/20161014-most-driver-phone-navigation/" target="_blank" rel="external">&gt;&gt;記事はこちら</a></p>
-<blockquote>
-<p>多くの新車にはカーナビが搭載されているが、オーナーの多くはカーナビではなくスマートフォンを使ってナビを行うことが新しい調査で明らかになったとのこと。私もその内の一人。クルマに付けたのはナビではなくスマホホルダー。代わりのモニターはバックミラーに映すだけで十分。</p>
-</blockquote>
-<p><br><br>ではまた▷L◁</p>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="http://trailheaven.github.io/2016/10/15/20161015-1/" data-id="cj6sxk59s001pzqh91rzb0rgj" class="article-share-link"><i class="fa fa-share"></i>共有</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="http://trailheaven.github.io/2016/10/15/20161015-1/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="http://trailheaven.github.io/2016/10/15/20161015-1/">コメント</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
     <nav id="page-nav">
         <a class="extend prev" rel="prev" href="/page/4/">&laquo; 前</a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><span class="page-number current">5</span><a class="page-number" href="/page/6/">6</a><a class="page-number" href="/page/7/">7</a><a class="page-number" href="/page/8/">8</a><a class="extend next" rel="next" href="/page/6/">次 &raquo;</a>
     </nav>
@@ -1684,6 +1688,25 @@
         <h3 class="widget-title">最近の記事</h3>
         <div class="widget">
             <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/09/03/20170903-1/" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/2017/09/03/20170903-1/" class="title">Facebookまとめ（8/26〜9/1）</a></p>
+                            <p class="item-date"><time datetime="2017-09-03T14:31:38.000Z" itemprop="datePublished">2017-09-03</time></p>
+                        </div>
+                    </li>
                 
                     <li>
                         
@@ -1761,25 +1784,6 @@
                         </div>
                     </li>
                 
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/07/29/20170729-1/" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"></p>
-                            <p class="item-title"><a href="/2017/07/29/20170729-1/" class="title">Facebookまとめ（7/22〜7/28）</a></p>
-                            <p class="item-date"><time datetime="2017-07-29T03:25:07.000Z" itemprop="datePublished">2017-07-29</time></p>
-                        </div>
-                    </li>
-                
             </ul>
         </div>
     </div>
@@ -1791,7 +1795,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">アーカイブ</h3>
         <div class="widget">
-            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">8月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">7月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">6月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">5月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">4月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">3月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">2月 2017</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">1月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">12月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">11月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">10月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">8月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">7月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">6月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">5月 2016</a><span class="archive-list-count">6</span></li></ul>
+            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">9月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">8月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">7月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">6月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">5月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">4月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">3月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">2月 2017</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">1月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">12月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">11月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">10月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">8月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">7月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">6月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">5月 2016</a><span class="archive-list-count">6</span></li></ul>
         </div>
     </div>
 
@@ -1800,7 +1804,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">タグ</h3>
         <div class="widget">
-            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/WBS/">WBS</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/WEBサービス/">WEBサービス</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キュレーション/">キュレーション</a><span class="tag-list-count">63</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ライトイールド/">ライトイールド</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/確定申告/">確定申告</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/要件定義/">要件定義</a><span class="tag-list-count">5</span></li></ul>
+            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/WBS/">WBS</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/WEBサービス/">WEBサービス</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キュレーション/">キュレーション</a><span class="tag-list-count">64</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ライトイールド/">ライトイールド</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/確定申告/">確定申告</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/要件定義/">要件定義</a><span class="tag-list-count">5</span></li></ul>
         </div>
     </div>
 
