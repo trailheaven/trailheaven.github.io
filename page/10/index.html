@@ -83,6 +83,280 @@
         <div class="outer">
             
             <section id="main">
+    <article id="post-20160521-1" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/2016/05/21/20160521-1/">要件定義に対するわだかまりとは</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/2016/05/21/20160521-1/">
+            <time datetime="2016-05-21T00:30:23.000Z" itemprop="datePublished">2016-05-21</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/ライトイールド/">ライトイールド</a>, <a class="tag-link" href="/tags/要件定義/">要件定義</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p><img src="/2016/05/21/20160521-1/photo.jpg" alt="photo"></p>
+<p>私がわだかまりを抱くようになったのは、SE(システムエンジニア)時代に遡ります。<br>　<br>それからPL(プロジェクトリーダー)、PM(プロジェクトマーネージャー)と経て、立場が変われど自分の中のわだかまりは消えることがありませんでした。</p>
+<blockquote>
+<ul>
+<li>SE時代<br>開発時にユーザーの意見を反映しようとすると「それは要件定義にないのでダメ。ボランティアじゃないんだから」とPLに咎められる。</li>
+<li>PL時代<br>QCD(品質、費用、納期)を意識すると、要件定義に含まれていない仕様は足枷になり、排除したくなる。また仕様を追加しようとするSEを咎めたくなる。</li>
+<li>PM時代<br>プロジェクトで利益を上げようとすると、要件定義に含まれない仕様でお金をもらいたくなる。「仕様追加=お金」のアタマになる。</li>
+</ul>
+</blockquote>
+<p>前回のブログでも書きましたが、要件定義とは「モノを作るにあたり、何を作れば良いのかを決めること」です。<br>　<br>しかしながら、いざ開発が始まると要件定義の裏返しでもある「最初に決めたモノ以外は作らない」がどうしても前に出てしまうのです。<br>　<br>開発ベンダーにとって、要件定義にないモノは作る対象と見ません。この考え方はもちろん私も理解できますが、それと同時に次の疑問が生まれました。</p>
+<blockquote>
+<p>「このような過程で生まれたシステムは、果たして本当に価値のあるシステムなのだろうか」</p>
+</blockquote>
+<p>そう、これが私の中のわだかまりです。<br>　<br>ユーザーにとって、自分たちの作りたいモノをまとめたはずの要件定義が、気が付けば自分たちの足かせとなっている。開発の過程で閃いたアイデアも世に出る機会はありません。<br>　<br>また、開発ベンダーに至っては <strong>モノを作ることが目的</strong> になっています。<br>　<br>ソフトウェアを世に送り出せば良かったITバブルの時代とは違い、これからはシステムの価値が問われる時代です。<br>　<br>その為にも、ユーザーが開発ベンダーに求めることは、単にモノを作るだけではなく、自分たちのゴールを共有しながらシステムを作り上げて行くことだと私は考えています。<br>　<br>ではなぜ、今もなお多くの開発プロジェクトでは要件定義を行うのでしょうか…。<br>　<br>（続く）<br>　<br>次回は「要件定義を行うメリット」について書いてみたいと思います。<br>ではまた▷L◁</p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="http://trailheaven.github.io/2016/05/21/20160521-1/" data-id="cjba72c4f00033kh9xszh133l" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="http://trailheaven.github.io/2016/05/21/20160521-1/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="http://trailheaven.github.io/2016/05/21/20160521-1/">コメント</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
+    <article id="post-20160514-1" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/2016/05/14/20160514-1/">「要件定義」について考えてみる</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/2016/05/14/20160514-1/">
+            <time datetime="2016-05-14T13:37:27.000Z" itemprop="datePublished">2016-05-14</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/ライトイールド/">ライトイールド</a>, <a class="tag-link" href="/tags/要件定義/">要件定義</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p><img src="/2016/05/14/20160514-1/photo.jpg" alt="photo"></p>
+<p>さて、記念すべき１回目は <strong>要件定義</strong> という言葉について触れてみます。<br>　<br>ソフトウェア開発においてよく使われる「要件定義」というこの言葉、ウィキペディアでは「要件」の説明の一環として記述されていました。</p>
+<blockquote>
+<p>ソフトウェア開発やシステム開発においては、「要件定義」とは、そのソフトウェアやシステムに必要な機能や性能を明らかにしてゆく作業のこと。</p>
+<p>IT関係の開発では「上流工程」と呼ばれている作業・工程の一部にあたり、実際の具体的な開発作業（プログラミング言語を使ったコーディング作業など）や実装作業を始める前に行う作業のひとつ。</p>
+<p>また「要件定義」は（開発依頼のあったソフトウェアやシステムについて）顧客が望んでいる機能や仕様などについて、その概略をまとめた文章・文書を指すこともある。ただしこうしたことをまとめた文書は通常は「要件定義書」と呼ばれる。<br><a href="https://ja.wikipedia.org/wiki/%E8%A6%81%E4%BB%B6" target="_blank" rel="external">ウィキペディアより</a></p>
+</blockquote>
+<p>要件定義とは、モノを作るにあたり、何を作れば良いのかを決めることです。<br>　<br>家を建てる時、みなさんは建てる前にどんな家にするかを事細かに決めますよね。それと同じことです。ごく一般的に考えて、要件定義とはモノを作る上で当然の行為といえるかと思います。<br>　<br>ところが、私はライトイールドを「要件を定義せずにWEBアプリケーションを開発する会社」にしたいと考えて設立しました。<br>　<br>先述の意見に相反する理念ですが、これはなぜでしょうか。私も若かりしSE(システムエンジニア)の頃は、要件定義とはソフトウェア開発においてなくてはならない行為だと考えていました。<br>　<br>しかし時が経ち、私もSE → PL(プロジェクトリーダー) → PM(プロジェクトマネージャー)と経験を積んでいくに連れ、この要件定義に対して自分の中でわだかまりを抱くようになるのです…。<br>　<br>（続く）<br>　<br>次回は「要件定義に対するわだかまりとは」について書いてみたいと思います。<br>ではまた　▷L◁</p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="http://trailheaven.github.io/2016/05/14/20160514-1/" data-id="cjba72c3y00003kh9tjlcocx1" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="http://trailheaven.github.io/2016/05/14/20160514-1/#comments" class="article-comment-link disqus-comment-count" data-disqus-url="http://trailheaven.github.io/2016/05/14/20160514-1/">コメント</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
     <article id="post-20160507-1" class="article article-type-post" itemscope itemprop="blogPost">
     <div class="article-inner">
         
@@ -131,7 +405,7 @@
 
 </div>
 
-    <a data-url="http://trailheaven.github.io/2016/05/07/20160507-1/" data-id="cjap1fozf00019hh9ps1p93t7" class="article-share-link"><i class="fa fa-share"></i>共有</a>
+    <a data-url="http://trailheaven.github.io/2016/05/07/20160507-1/" data-id="cjba72c4500013kh92uxxy7uj" class="article-share-link"><i class="fa fa-share"></i>共有</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -225,6 +499,44 @@
                     <li>
                         
                         <div class="item-thumbnail">
+                            <a href="/2017/12/17/20171217-2/" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/2017/12/17/20171217-2/" class="title">Facebookまとめ（12/9〜12/15）</a></p>
+                            <p class="item-date"><time datetime="2017-12-17T03:06:43.000Z" itemprop="datePublished">2017-12-17</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/12/17/20171217-1/" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/2017/12/17/20171217-1/" class="title">Facebookまとめ（12/2〜12/8）</a></p>
+                            <p class="item-date"><time datetime="2017-12-17T03:00:36.000Z" itemprop="datePublished">2017-12-17</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
                             <a href="/2017/12/02/20171202-1/" class="thumbnail">
     
     
@@ -279,44 +591,6 @@
                         </div>
                     </li>
                 
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/11/11/20171111-1/" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"></p>
-                            <p class="item-title"><a href="/2017/11/11/20171111-1/" class="title">Facebookまとめ（11/4〜11/10）</a></p>
-                            <p class="item-date"><time datetime="2017-11-11T13:21:32.000Z" itemprop="datePublished">2017-11-11</time></p>
-                        </div>
-                    </li>
-                
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/2017/11/04/20171104-1/" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"></p>
-                            <p class="item-title"><a href="/2017/11/04/20171104-1/" class="title">Facebookまとめ（10/28〜11/3）</a></p>
-                            <p class="item-date"><time datetime="2017-11-04T06:44:40.000Z" itemprop="datePublished">2017-11-04</time></p>
-                        </div>
-                    </li>
-                
             </ul>
         </div>
     </div>
@@ -328,7 +602,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">アーカイブ</h3>
         <div class="widget">
-            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">12月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">11月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/10/">10月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">9月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">8月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">7月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">6月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">5月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">4月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">3月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">2月 2017</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">1月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">12月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">11月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">10月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">8月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">7月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">6月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">5月 2016</a><span class="archive-list-count">6</span></li></ul>
+            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">12月 2017</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">11月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/10/">10月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">9月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/08/">8月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/07/">7月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">6月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">5月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">4月 2017</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">3月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/02/">2月 2017</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/01/">1月 2017</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">12月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">11月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">10月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">9月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">8月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">7月 2016</a><span class="archive-list-count">6</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">6月 2016</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">5月 2016</a><span class="archive-list-count">6</span></li></ul>
         </div>
     </div>
 
@@ -337,7 +611,7 @@
     <div class="widget-wrap">
         <h3 class="widget-title">タグ</h3>
         <div class="widget">
-            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/WBS/">WBS</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/WEBサービス/">WEBサービス</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キュレーション/">キュレーション</a><span class="tag-list-count">77</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ライトイールド/">ライトイールド</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/確定申告/">確定申告</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/要件定義/">要件定義</a><span class="tag-list-count">5</span></li></ul>
+            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/WBS/">WBS</a><span class="tag-list-count">4</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/WEBサービス/">WEBサービス</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/キュレーション/">キュレーション</a><span class="tag-list-count">79</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ライトイールド/">ライトイールド</a><span class="tag-list-count">11</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/確定申告/">確定申告</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/要件定義/">要件定義</a><span class="tag-list-count">5</span></li></ul>
         </div>
     </div>
 
